@@ -1,0 +1,676 @@
+=87u
+<C&8
+ !"$%&
+ !#%'(
+ !"#$%&(*
+ !"#%')+-
+!$%&')+-/0
+!#%&')+-/02
+ "%()*+-/135
+ "$&)*,.02469
+!#%')+-./12469<
+ "$&(+./02469<?
+!"#%'),/23468;4AD
+ #$%'),/25679;>ADG
+Z[X.
+QRWV
+^_ZY
+:E!u
+	:E5u
+WPS2
+("DD[X_
+e%:e%r
+tK|%2
+("DDY_
+E($ 
+E/$?
+E.$?
+WPS2
+("DD[X_
+ * 5 Y
+"|"f"q"P"["
+a K @ 
+/":"E"
+#!#,#
+7#B#
+M#X#y#n#c#
+!=!N
+ S!^!i!t!
+ w l 
+$)$4$?$J$U$`$k$v$
+End patch table
+wF7>
+V'!!
+V(41
+DfD1
+#+j	
+%e/lA
+su$W0q
+LJ""	
+I,"t
+"<\u
+_^]RS
+<ar	<z
+VWVW
+_^_^]
+,w,m,c,Y,N,C,8,%,
+?pkt	
+?PKu"
+XZ&;W
+uV&;
+/N0[0
+0D0D0(0D0:0
+rU*U
+rU*U
+eF;6
+;F;6
+tn;6
+6vUV
+rU*U
+~Ut%
+UWPV
+LLVW
+pU;G
+?Z4u
+PSQR
+ZY[X
+PSQRW
+_ZY[X
+@IKB
+r/PS2
+WVWV
+WVSSPP
+SPPP
+XX[@;
+^X@;F
+u7VW
+_^VW
+ !H#l%
+GjI<K
+u6PSQR
+ZY[Xs#
+PSQR
+ZY[X
+F DD^
+F DD^
+F DD3
+F DD
+F DD3
+F DD
+F DD3
+F DD
+Gb;F
+&+Gb@
+Gf;F
+&+Gb@)F
+Gnt#
+Grt#
+&;G~t
+Gd@P
+GdHP
+&;G~u
+PSQR
+t!=	
+ZY[X
+F DD
+\@Br
+	5	[	
+DDRP
+DDRP
+X&;G
+]@;F
+]@;F
+x^;F
+7 C N } 
+X&;G
+`H;F
+`H;F
+F DD
+|!DD
+\@Bv
+\@Bu
+tQ=_
+t,=j
+t-=z
+PSQR
+`<.t
+`<Ft
+b]_^
+ZY[X
+br!u
+&;GT~
+&+Gd
+GT;F
+GT;F
+&;GT}<
+&;GT
+GX0b
+&;GT}	
+W`J;
+&)G`
+&;GT}
+t8=4
+&;G`t!3
+GV%@
+"DDP
+"DDZ;
+\ct]
+lcr'u
+Z^ u
+Z^Pt
+t&=Y
+DD+F
+DD+F
+crEu
+t>=K
+?Luv
+tH= 
+F DD
+F DD
+u1;F
+>H2<r$
+][&:E
+]&:E
+ +DB
+r)w*
+XC;^
+[XC;^
+!C<?u
+FGIu
+FGIu
+BPSQ
+]&:E
+DPSQR
+ZY[X
+[XIu
+]&:E
+TB+V
+TB+V
+& %GKP
+TB+V
+TB+V
+TB+V
+TB+V
+TB+V
+][&:E
+]LVW
+M&&+M$A
+}DFF
+t Jt
+'CJu
+'CGGY
+;\$r
+;\&v
+{+\$
+DR+D.&
+DP+F
+FGGKu
+GGKu
+GGKu
+GGKu
+GGKu
+DP+F
+& %2F
+FGKu
+& %2F
+X[GKK~%S
+& =G
+& =XGII~
+& =G
+& =X"f
+TP+V
+DP+F
+& %2F
+FGKu
+& %2F
+TP+V
+TP+V
+TP+V
+;D$r0;D&w+
+DR)F
+D*)F
+;D$rH;D&wCP
+;D$r0;D&w+
+;\$r
+;\&r
+(N=	
+WF;v
+t	;~
+t	;~
+A&;U
+6 NV
+F+6{
+" YY
+fR!F
+C YY
+&)7V
+~/SQR
+#>fR
+C YY
+!r$RP
+_^]DD
+!XZ[&:
+"RPW
+!"YY
+""YY
+""YY3
+P"v?
+8"RP
+8"RP
+ YY=
+`SPF
+!YY3
+ YY=
+wquj
+F YF
+Turbo-C - Copyright (c) 1988 Borland Intl.
+Divide error
+Abnormal program termination
+product.pf
+This disk appears to be damaged or some
+files are missing.
+Please check your disk, use your backup
+or contact MECC.
+This is a MECC Membership product copy that
+has not been properly duplicated and registered.
+Please use the MECC duplication program
+to make working copies.
+This is a MECC Demo product whose time
+has run out.
+Please call MECC to obtain
+a legal copy.
+PROGRAM IS NOT AVAILABLE
+This product is licensed for use by a single computer
+at a time.  It is currently being used by someone else
+on the network.
+Please try again later.
+The network version of this program may be licensed
+from MECC.  Please call MECC at %s for
+details.
+-- Press any key --
+    Press any key.
+Not enough free memory.
+Error: missing file
+    Press any key.
+    Please remove
+   write-protection
+    from the disk.
+Please insert the disk.
+  The printer is out
+      of paper.
+     Disk error.
+   Critical error %d.
+wlist.bin
+Missing word list file.
+Can't continue!
+BIT8x8.gft
+BIT5x8.gft
+                                
+There are currently no entries in the
+Hall of Fame.
+Use arrows to move, Space Bar to delete.
+Press Enter to accept changes.
+Escape: Cancel changes
+Erase Hall of Fame
+There are no more entries in the
+Hall of Fame.
+Press Space Bar to continue.
+.CFG
+    The specified file is not in MECC configuration format.
+    MECC configuration error. Could not open the specified file.
+ConfInit1
+nomouse
+wm.cfg
+wm.cfg
+MECC
+Do you really want to quit?
+The Unknown Muncher
+Congratulations!
+Type your name, and press Enter.
+Do you want to play again?
+You made it into
+the Word Munchers Hall of Fame!
+You have the Word Munchers
+Hall of Fame best score!
+A Word Munchers Hall of Fame
+perfect score!!!
+"Yikes
+Oops
+Aargh
+Oh, Oh
+Rats
+normalus
+laborus
+timidus
+assistus
+smarticus
+The word "" does not have the
+The word "
+" does not have the
+same vowel sound as "."
+same vowel sound as "
+Press SPACE BAR to continue
+! You were eaten by a
+! You were eaten by a
+Trogglus 
+Trogglus 
+Press SPACE BAR to continue
+logo.004
+logo.256
+CGA.BGI
+Unable to find necessary files.
+Please start the program from the
+Word Munchers directory.
+GrafOpen
+InitEd
+Cannot run program.
+No graphics hardware detected.
+VGA256
+Unable to find necessary files.
+Please start the program from the
+Word Munchers directory.
+Version 
+Network version is licensed to:
+This product is licensed to:
+wm.res
+mcga.res
+cga.res
+--more--
+Use Arrows to move, then press Enter.
+ Play Word Munchers 
+ Hall of Fame 
+ Information 
+ Options 
+ Quit 
+Use Arrows to move, then press Enter.
+Escape: 
+Choose an option:
+Options
+Type entry, then press Enter.
+Escape: Options Menu
+That password is not correct.
+Please try again.
+Enter the password:
+Type entry, then press Enter.
+Escape: Main Menu
+Set Password
+Enter a new password:
+Enter a hint:
+ Set Content 
+ Erase Hall of Fame 
+ Set Password 
+ Turn Joystick ON  
+ Calibrate Joystick 
+Main Menu
+Configuration file
+cannot be written, it
+is write protected
+"PCX problem with titlepict images.
+Improper diacritical type.
+Trogg
+/a/ as in cake
+/a/ as in hat
+/e/ as in tree
+/e/ as in bell
+/i/ as in kite
+/i/ as in fish
+/o/ as in boat
+/o/ as in fox
+/u/ as in mule
+/u/ as in duck
+/oo/ as in moon
+/oo/ as in book
+/ou/ as in mouse
+/au/ as in haunt
+/oi/ as in oil
+/ar/ as in car
+/air/ as in chair
+/eer/ as in deer
+/ir/ as in bird
+/or/ as in corn
+Score: 
+Score: 
+Score: 
+Press a key for Muncher Menu
+Press a key for Muncher Menu
+Score: 
+0000000
+0000000
+Score: 
+Level: 
+Demo
+Time out
+yYnN
+WORD MUNCHERS
+Hall of Fame
+There are no entries
+in the Hall of Fame.
+Perfect
+ Press Space Bar to continue.
+Press a key for Muncher Menu
+Press a key for Muncher Menu
+Do you want instructions?
+Press Space Bar to continue.
+ Yes 
+ No 
+Attach joystick to computer.
+Center your joystick.
+Position your joystick: left
+Position your joystick: right
+Position your joystick: up
+Position your joystick: down
+Your joystick is ready for use.
+Calibrate Joystick
+Press Space Bar to continue.
+Escape: Options Menu
+pCallJob
+pSeqKey
+pSeqmouse
+Location: LoadFont
+Cursor allocation failed.
+The current content settings provide  
+insufficient target words for the     
+Muncher.                              
+You must select a different difficulty
+level or select from available vowel  
+sounds.                               
+Press Space Bar to see more.
+Escape: Set Content Menu
+You have selected no vowel sounds.   
+Please select at least two.          
+You have selected only one vowel  
+sound from Group 2. If you wish to
+use any vowels from Group 2, you  
+must select at least two.         
+Use Arrows to move, Space Bar to select.
+Press Enter to accept changes.
+Escape: Cancel changes         F1: Help
+ 1st Grade Easy 
+ 1st Grade Advanced 
+ 2nd Grade Easy 
+ 2nd Grade Advanced 
+ 3rd Grade Easy 
+ 3rd Grade Advanced 
+ 4th Grade 
+ 5th Grade and Above 
+ Select Word Difficulty 
+ Select Vowel Sounds 
+ Preview Words 
+Set Content
+Current Difficulty:
+Vowel sounds selected:  
+Target words available: 
+Options Menu
+ as in 
+Preview Words
+Current Difficulty:
+Select Word Difficulty
+Current Difficulty:
+Choose a level:
+Set Content Menu
+ a,a 
+ e,e 
+ i,i 
+ o,o 
+ u,u 
+ oo,oo 
+ ou/ow 
+ au/aw 
+ oi/oy 
+ ar 
+ air 
+ eer 
+ er/ir/ur 
+ or 
+Set Vowel Sounds
+Current Difficulty:
+Group 1
+Group 2
+Group 3
+Select Vowel Sounds Help
+You may use this option to select the  
+vowel sounds to use with Word Munchers.
+At least one vowel must be selected.   
+If you wish to select certain vowel    
+sounds in Groups 2 or 3, then you must 
+select a minimum of two vowel sounds in
+each group.  See the User's Guide for  
+details.
+    = Available               = Not Available
+    = Selected, Available      = Selected, Not Available
+F2/F3 = Select All/De-select All
+PCXF
+BTMP
+SCPT
+GSND
+ADLI
+PSND
+DATA
+CONF
+EGAT
+     Please insert
+ Word Munchers Disk 1.
+ Word Munchers Disk 2.
+the Word Munchers disk.
+Program exit, not enough memory to continue.
+Program exit, not enough memory to continue.
+Error expanding image.
+pDoJobs
+pFindJob
+pAddJob1
+pAddJob2
+pGetEvent
+pSetEvent
+pSetJob
+ PCX Programmer's Toolkit 3.55 Copyright (c) Genus Microprogramming, Inc. 1988-89 All Rights Reserved. Christopher A. Howard 
+EMMXXXX
+CGA 320x200x4       
+CGA 640x200x2       
+EGA 320x200x16      
+EGA 640x200x16      
+EGA 640x350x2       
+EGA 640x350x16      
+VGA 640x480x2       
+VGA 640x480x16      
+VGA 320x200x256     
+	Hercules 720x348x2  
+Tseng 800x600x16    
+Tseng 640x350x256   
+Tseng 640x480x256   
+Tseng 800x600x256   
+Paradise 800x600x16 
+Paradise 800x600x2  
+Paradise 640x400x256
+Paradise 640x480x256
+Video7 800x600x16   
+Video7 640x400x256  
+Video7 640x480x256  
+Video7 800x600x256  
+ PCX Text 1.01 Copyright (c) Genus Microprogramming, Inc. 1988-89 All Rights Reserved. Christopher A. Howard 
+EMMXXXX
+CGA 320x200x4       
+CGA 640x200x2       
+EGA 320x200x16      
+EGA 640x200x16      
+EGA 640x350x2       
+EGA 640x350x16      
+VGA 640x480x2       
+VGA 640x480x16      
+VGA 320x200x256     
+	Hercules 720x348x2  
+Tseng 800x600x16    
+Tseng 640x350x256   
+Tseng 640x480x256   
+Tseng 800x600x256   
+Paradise 800x600x16 
+Paradise 800x600x2  
+Paradise 640x400x256
+Paradise 640x480x256
+Video7 800x600x16   
+Video7 640x400x256  
+Video7 640x480x256  
+Video7 800x600x256  
+ PCX Effects 1.03 Copyright (c) Genus Microprogramming, Inc. 1988-89 All Rights Reserved. Christopher A. Howard 
+Wipe                
+Split               
+Crush               
+Slide               
+Sand                
+Drip                
+Explode             
+Diagonal            
+Spiral              
+	Random              
+         !!!!!                  
+@@@@@@@@@@@@@@@
+@@@@@@@
+@@@@@@
+@@@@ 
+print scanf : floating point formats not linked
+(null)
+0123456789ABCDEF
+COMPAQ
+TRIP
+LITT
+SANS
+GOTH
+SCRI
+SIMP
+TSCR
+LCOM
+EURO
+BOLD
+EGAVGA
+EGAVGA
+IBM8514
+IBM8514
+HERC
+HERC
+PC3270
+PC3270
+xxxx
+No Error
+Bad Mode
+No error
+(BGI) graphics not installed
+Graphics hardware not detected
+Device driver file not found (
+Invalid device driver file (
+Not enough memory to load driver
+Out of memory in scan fill
+Out of memory in flood fill
+Font file not found (
+Not enough memory to load font
+Invalid graphics mode for selected driver
+Graphics error
+Graphics I/O error
+Invalid font file (
+Invalid font number
+Invalid Printer Initialize
+Printer Module Not Linked
+Invalid File Version Number
+Graphics error (
+BGI Error: Not in graphics mode
+BGI Error: Graphics not initialized (use 'initgraph')
+.BGI
+.CHR

@@ -1,0 +1,13 @@
+#include <windows.h>
+#include "../src/resource_ids.h"
+
+IDR_WM_WLIST RCDATA "../extracted/word-munchers/WM/WLIST.BIN"
+IDR_WM_RES RCDATA "../extracted/word-munchers/WM/WM.RES"
+IDR_WMCGA_RES RCDATA "../extracted/word-munchers/WM/MCGA.RES"
+IDR_WCGA_RES RCDATA "../extracted/word-munchers/WM/CGA.RES"
+IDR_BIT8X8_GFT RCDATA "../extracted/word-munchers/WM/BIT8X8.GFT"
+IDR_BIT5X8_GFT RCDATA "../extracted/word-munchers/WM/BIT5X8.GFT"
+IDR_WM_CFG RCDATA "../extracted/word-munchers/WM/WM.CFG"
+IDR_WM_PRODUCT_PF RCDATA "../extracted/word-munchers/WM/PRODUCT.PF"
+IDR_LOGO_256 RCDATA "../extracted/word-munchers/WM/LOGO.256"
+IDR_LOGO_004 RCDATA "../extracted/word-munchers/WM/LOGO.004"

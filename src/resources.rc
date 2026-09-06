@@ -1,0 +1,62 @@
+#include <windows.h>
+#include "resource_ids.h"
+
+IDR_NM_RES RCDATA "../assets/original/NM.RES"
+IDR_NMCGA_RES RCDATA "../assets/original/NMCGA.RES"
+IDR_NCGA_RES RCDATA "../assets/original/NCGA.RES"
+IDR_MECC8X8_GFT RCDATA "../assets/original/MECC8X8.GFT"
+IDR_MECC5X8_GFT RCDATA "../assets/original/MECC5X8.GFT"
+IDR_LOGO_256 RCDATA "../assets/original/LOGO.256"
+IDR_LOGO_004 RCDATA "../assets/original/LOGO.004"
+IDR_PRODUCT_PF RCDATA "../assets/original/PRODUCT.PF"
+IDR_NM_CFG RCDATA "../extracted/disk/NMUNCH/NM.CFG"
+IDR_WM_WLIST RCDATA "../extracted/word-munchers/WM/WLIST.BIN"
+IDR_WM_RES RCDATA "../extracted/word-munchers/WM/WM.RES"
+IDR_WMCGA_RES RCDATA "../extracted/word-munchers/WM/MCGA.RES"
+IDR_WCGA_RES RCDATA "../extracted/word-munchers/WM/CGA.RES"
+IDR_BIT8X8_GFT RCDATA "../extracted/word-munchers/WM/BIT8X8.GFT"
+IDR_BIT5X8_GFT RCDATA "../extracted/word-munchers/WM/BIT5X8.GFT"
+IDR_WM_CFG RCDATA "../extracted/word-munchers/WM/WM.CFG"
+IDR_WM_PRODUCT_PF RCDATA "../extracted/word-munchers/WM/PRODUCT.PF"
+IDR_SM_RES RCDATA "../assets/super/original/SM.RES"
+IDR_SMCGA_RES RCDATA "../assets/super/original/SMCGA.RES"
+IDR_SCGA_RES RCDATA "../assets/super/original/SCGA.RES"
+IDR_SM_BIT8X8_GFT RCDATA "../assets/super/original/BIT8X8.GFT"
+IDR_SM_MIX5X8_GFT RCDATA "../assets/super/original/MIX5X8.GFT"
+IDR_SM_LOGO_256 RCDATA "../assets/super/original/LOGO.256"
+IDR_SM_LOGO_004 RCDATA "../assets/super/original/LOGO.004"
+IDR_SM_CFG RCDATA "../assets/super/original/SM.CFG"
+IDR_SM_PRODUCT_PF RCDATA "../assets/super/original/PRODUCT.PF"
+IDR_SFX_CORRECT_DRO RCDATA "../assets/ripped/audio/correct-munch-adlib.dro"
+IDR_SFX_WRONG_DRO RCDATA "../assets/ripped/audio/wrong-munch-adlib.dro"
+IDR_SFX_TROGGLE_COLLISION_DRO RCDATA "../assets/ripped/audio/troggle-collision-adlib.dro"
+IDR_SFX_BOARD_START_DRO RCDATA "../assets/ripped/audio/board-start-adlib.dro"
+IDR_SFX_LEVEL_ADVANCE_DRO RCDATA "../assets/ripped/audio/level-advance-adlib.dro"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK 0x3fL
+FILEFLAGS 0x0L
+FILEOS 0x40004L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "Native preservation port"
+            VALUE "FileDescription", "Number Munchers native Windows port"
+            VALUE "FileVersion", "1.0.0"
+            VALUE "InternalName", "NumberMunchers"
+            VALUE "OriginalFilename", "Number Munchers.exe"
+            VALUE "ProductName", "Number Munchers"
+            VALUE "ProductVersion", "1.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END

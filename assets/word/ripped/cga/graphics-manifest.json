@@ -1,0 +1,3243 @@
+{
+  "sheets": [
+    {
+      "id": 1000,
+      "width": 213,
+      "height": 182,
+      "file": "assets/word/ripped/cga/sheets/01000.png"
+    },
+    {
+      "id": 1001,
+      "width": 210,
+      "height": 186,
+      "file": "assets/word/ripped/cga/sheets/01001.png"
+    },
+    {
+      "id": 1002,
+      "width": 202,
+      "height": 185,
+      "file": "assets/word/ripped/cga/sheets/01002.png"
+    },
+    {
+      "id": 1003,
+      "width": 208,
+      "height": 185,
+      "file": "assets/word/ripped/cga/sheets/01003.png"
+    },
+    {
+      "id": 1004,
+      "width": 160,
+      "height": 185,
+      "file": "assets/word/ripped/cga/sheets/01004.png"
+    },
+    {
+      "id": 1005,
+      "width": 204,
+      "height": 186,
+      "file": "assets/word/ripped/cga/sheets/01005.png"
+    },
+    {
+      "id": 2000,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/02000.png"
+    },
+    {
+      "id": 2002,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/02002.png"
+    },
+    {
+      "id": 2004,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/02004.png"
+    },
+    {
+      "id": 2006,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/02006.png"
+    },
+    {
+      "id": 2008,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/02008.png"
+    },
+    {
+      "id": 2010,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/02010.png"
+    },
+    {
+      "id": 3002,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/03002.png"
+    },
+    {
+      "id": 3004,
+      "width": 320,
+      "height": 178,
+      "file": "assets/word/ripped/cga/sheets/03004.png"
+    },
+    {
+      "id": 6000,
+      "width": 205,
+      "height": 162,
+      "file": "assets/word/ripped/cga/sheets/06000.png"
+    },
+    {
+      "id": 6002,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/06002.png"
+    },
+    {
+      "id": 6004,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/06004.png"
+    },
+    {
+      "id": 6008,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/06008.png"
+    },
+    {
+      "id": 6050,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/06050.png"
+    },
+    {
+      "id": 6052,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/cga/sheets/06052.png"
+    }
+  ],
+  "animations": [
+    {
+      "id": 1000,
+      "frame_count": 19,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            96,
+            152
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01000/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            96,
+            56
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01000/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            96,
+            104
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01000/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            156,
+            126,
+            200
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            156,
+            126,
+            200
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            126,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            46,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            46,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            126,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            126,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            126,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            137,
+            132,
+            166,
+            176
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            137,
+            132,
+            166,
+            176
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01000/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            140,
+            96,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/word/ripped/cga/frames/01000/016.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 17,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            140,
+            16,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/word/ripped/cga/frames/01000/017.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 18,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            140,
+            56,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/word/ripped/cga/frames/01000/018.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01001/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01001/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01001/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01001/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01002/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01002/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01002/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01002/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01003/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01003/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01003/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01003/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01004/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01004/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01004/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01004/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            136,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01005/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            136,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01005/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            136,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/01005/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/cga/frames/01005/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 2000,
+      "frame_count": 15,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            40,
+            108
+          ],
+          "width": 109,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            40,
+            84
+          ],
+          "width": 85,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            20,
+            40,
+            96
+          ],
+          "width": 77,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            108,
+            40,
+            160
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            160,
+            40,
+            212
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            212,
+            40,
+            264
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            0,
+            264,
+            40,
+            316
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/cga/frames/02000/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            145,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 55,
+          "file": "assets/word/ripped/cga/frames/02000/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            45,
+            136,
+            113,
+            156
+          ],
+          "width": 21,
+          "height": 69,
+          "file": "assets/word/ripped/cga/frames/02000/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            45,
+            136,
+            113,
+            176
+          ],
+          "width": 41,
+          "height": 69,
+          "file": "assets/word/ripped/cga/frames/02000/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            45,
+            136,
+            113,
+            319
+          ],
+          "width": 184,
+          "height": 69,
+          "file": "assets/word/ripped/cga/frames/02000/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            54,
+            4,
+            89,
+            132
+          ],
+          "width": 129,
+          "height": 36,
+          "file": "assets/word/ripped/cga/frames/02000/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            117,
+            160,
+            141,
+            224
+          ],
+          "width": 65,
+          "height": 25,
+          "file": "assets/word/ripped/cga/frames/02000/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            117,
+            232,
+            141,
+            296
+          ],
+          "width": 65,
+          "height": 25,
+          "file": "assets/word/ripped/cga/frames/02000/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2000,
+          "rectangle_inclusive_yxyx": [
+            105,
+            0,
+            144,
+            140
+          ],
+          "width": 141,
+          "height": 40,
+          "file": "assets/word/ripped/cga/frames/02000/014.png"
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "frame_count": 17,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            146,
+            0,
+            199,
+            48
+          ],
+          "width": 49,
+          "height": 54,
+          "file": "assets/word/ripped/cga/frames/02002/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            178,
+            48,
+            199,
+            319
+          ],
+          "width": 272,
+          "height": 22,
+          "file": "assets/word/ripped/cga/frames/02002/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            55,
+            319
+          ],
+          "width": 320,
+          "height": 56,
+          "file": "assets/word/ripped/cga/frames/02002/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            63,
+            4,
+            85,
+            32
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            63,
+            36,
+            85,
+            64
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            63,
+            68,
+            85,
+            96
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            63,
+            100,
+            85,
+            128
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            63,
+            132,
+            85,
+            160
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            63,
+            132,
+            85,
+            148
+          ],
+          "width": 17,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            102,
+            92,
+            176,
+            319
+          ],
+          "width": 228,
+          "height": 75,
+          "file": "assets/word/ripped/cga/frames/02002/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            96,
+            4,
+            118,
+            24
+          ],
+          "width": 21,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            96,
+            28,
+            118,
+            48
+          ],
+          "width": 21,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2002,
+          "rectangle_inclusive_yxyx": [
+            96,
+            52,
+            118,
+            72
+          ],
+          "width": 21,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02002/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 3002,
+          "rectangle_inclusive_yxyx": [
+            5,
+            232,
+            50,
+            319
+          ],
+          "width": 88,
+          "height": 46,
+          "file": "assets/word/ripped/cga/frames/02002/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 3002,
+          "rectangle_inclusive_yxyx": [
+            56,
+            232,
+            101,
+            319
+          ],
+          "width": 88,
+          "height": 46,
+          "file": "assets/word/ripped/cga/frames/02002/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 3002,
+          "rectangle_inclusive_yxyx": [
+            4,
+            0,
+            78,
+            56
+          ],
+          "width": 57,
+          "height": 75,
+          "file": "assets/word/ripped/cga/frames/02002/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 3002,
+          "rectangle_inclusive_yxyx": [
+            4,
+            36,
+            78,
+            228
+          ],
+          "width": 193,
+          "height": 75,
+          "file": "assets/word/ripped/cga/frames/02002/016.png"
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "frame_count": 22,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            91,
+            160
+          ],
+          "width": 161,
+          "height": 92,
+          "file": "assets/word/ripped/cga/frames/02004/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            92,
+            0,
+            199,
+            112
+          ],
+          "width": 113,
+          "height": 108,
+          "file": "assets/word/ripped/cga/frames/02004/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            0,
+            160,
+            34,
+            319
+          ],
+          "width": 160,
+          "height": 35,
+          "file": "assets/word/ripped/cga/frames/02004/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            252,
+            176,
+            260
+          ],
+          "width": 9,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            272,
+            176,
+            288
+          ],
+          "width": 17,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            236,
+            176,
+            260
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            264,
+            176,
+            288
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            292,
+            176,
+            314
+          ],
+          "width": 23,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            177,
+            244,
+            199,
+            252
+          ],
+          "width": 9,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            177,
+            268,
+            199,
+            284
+          ],
+          "width": 17,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            177,
+            228,
+            199,
+            252
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            177,
+            260,
+            199,
+            284
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            196,
+            176,
+            220
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            177,
+            196,
+            199,
+            220
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            177,
+            292,
+            199,
+            316
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            168,
+            176,
+            192
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02004/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            154,
+            136,
+            179,
+            160
+          ],
+          "width": 25,
+          "height": 26,
+          "file": "assets/word/ripped/cga/frames/02004/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            131,
+            128,
+            149,
+            160
+          ],
+          "width": 33,
+          "height": 19,
+          "file": "assets/word/ripped/cga/frames/02004/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            139,
+            172,
+            147,
+            200
+          ],
+          "width": 29,
+          "height": 9,
+          "file": "assets/word/ripped/cga/frames/02004/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 2004,
+          "rectangle_inclusive_yxyx": [
+            49,
+            200,
+            147,
+            319
+          ],
+          "width": 120,
+          "height": 99,
+          "file": "assets/word/ripped/cga/frames/02004/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 3004,
+          "rectangle_inclusive_yxyx": [
+            0,
+            4,
+            160,
+            152
+          ],
+          "width": 149,
+          "height": 161,
+          "file": "assets/word/ripped/cga/frames/02004/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 3004,
+          "rectangle_inclusive_yxyx": [
+            0,
+            172,
+            160,
+            319
+          ],
+          "width": 148,
+          "height": 161,
+          "file": "assets/word/ripped/cga/frames/02004/021.png"
+        }
+      ]
+    },
+    {
+      "id": 2006,
+      "frame_count": 11,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            47,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 153,
+          "file": "assets/word/ripped/cga/frames/02006/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            28,
+            252,
+            43,
+            308
+          ],
+          "width": 57,
+          "height": 16,
+          "file": "assets/word/ripped/cga/frames/02006/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            4,
+            252,
+            19,
+            308
+          ],
+          "width": 57,
+          "height": 16,
+          "file": "assets/word/ripped/cga/frames/02006/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            12,
+            28,
+            35,
+            64
+          ],
+          "width": 37,
+          "height": 24,
+          "file": "assets/word/ripped/cga/frames/02006/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            48,
+            92,
+            71,
+            128
+          ],
+          "width": 37,
+          "height": 24,
+          "file": "assets/word/ripped/cga/frames/02006/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            6,
+            128,
+            32,
+            176
+          ],
+          "width": 49,
+          "height": 27,
+          "file": "assets/word/ripped/cga/frames/02006/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            9,
+            212,
+            12,
+            224
+          ],
+          "width": 13,
+          "height": 4,
+          "file": "assets/word/ripped/cga/frames/02006/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            20,
+            212,
+            23,
+            224
+          ],
+          "width": 13,
+          "height": 4,
+          "file": "assets/word/ripped/cga/frames/02006/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            88,
+            192,
+            91,
+            204
+          ],
+          "width": 13,
+          "height": 4,
+          "file": "assets/word/ripped/cga/frames/02006/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            32,
+            188,
+            41,
+            212
+          ],
+          "width": 25,
+          "height": 10,
+          "file": "assets/word/ripped/cga/frames/02006/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2006,
+          "rectangle_inclusive_yxyx": [
+            32,
+            220,
+            41,
+            244
+          ],
+          "width": 25,
+          "height": 10,
+          "file": "assets/word/ripped/cga/frames/02006/010.png"
+        }
+      ]
+    },
+    {
+      "id": 2008,
+      "frame_count": 15,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            55,
+            0,
+            199,
+            104
+          ],
+          "width": 105,
+          "height": 145,
+          "file": "assets/word/ripped/cga/frames/02008/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            152,
+            104,
+            199,
+            319
+          ],
+          "width": 216,
+          "height": 48,
+          "file": "assets/word/ripped/cga/frames/02008/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            87,
+            212,
+            121,
+            319
+          ],
+          "width": 108,
+          "height": 35,
+          "file": "assets/word/ripped/cga/frames/02008/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            9,
+            40,
+            53,
+            104
+          ],
+          "width": 65,
+          "height": 45,
+          "file": "assets/word/ripped/cga/frames/02008/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            125,
+            296,
+            148,
+            319
+          ],
+          "width": 24,
+          "height": 24,
+          "file": "assets/word/ripped/cga/frames/02008/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            126,
+            260,
+            149,
+            284
+          ],
+          "width": 25,
+          "height": 24,
+          "file": "assets/word/ripped/cga/frames/02008/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            126,
+            228,
+            149,
+            252
+          ],
+          "width": 25,
+          "height": 24,
+          "file": "assets/word/ripped/cga/frames/02008/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            34,
+            180,
+            78,
+            300
+          ],
+          "width": 121,
+          "height": 45,
+          "file": "assets/word/ripped/cga/frames/02008/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            0,
+            128,
+            22,
+            152
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02008/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            0,
+            240,
+            22,
+            264
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02008/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            0,
+            208,
+            22,
+            232
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02008/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            26,
+            148,
+            48,
+            172
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02008/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            26,
+            116,
+            48,
+            140
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02008/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            9,
+            288,
+            12,
+            304
+          ],
+          "width": 17,
+          "height": 4,
+          "file": "assets/word/ripped/cga/frames/02008/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2008,
+          "rectangle_inclusive_yxyx": [
+            0,
+            32,
+            53,
+            104
+          ],
+          "width": 73,
+          "height": 54,
+          "file": "assets/word/ripped/cga/frames/02008/014.png"
+        }
+      ]
+    },
+    {
+      "id": 2010,
+      "frame_count": 21,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            126,
+            260,
+            148,
+            284
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            126,
+            236,
+            148,
+            260
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            126,
+            212,
+            148,
+            236
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            103,
+            248,
+            125,
+            272
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            103,
+            220,
+            125,
+            248
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            80,
+            236,
+            102,
+            264
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            33,
+            284,
+            149,
+            319
+          ],
+          "width": 36,
+          "height": 117,
+          "file": "assets/word/ripped/cga/frames/02010/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            10,
+            288,
+            32,
+            316
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            10,
+            200,
+            32,
+            228
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            10,
+            156,
+            32,
+            184
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            16,
+            48,
+            38,
+            96
+          ],
+          "width": 49,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            46,
+            40,
+            68,
+            88
+          ],
+          "width": 49,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/02010/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            76,
+            88,
+            104,
+            124
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/cga/frames/02010/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            64,
+            88,
+            92,
+            124
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/cga/frames/02010/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            76,
+            128,
+            104,
+            164
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/cga/frames/02010/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            64,
+            128,
+            92,
+            164
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/cga/frames/02010/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            82,
+            20,
+            108,
+            52
+          ],
+          "width": 33,
+          "height": 27,
+          "file": "assets/word/ripped/cga/frames/02010/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            126,
+            12,
+            194,
+            92
+          ],
+          "width": 81,
+          "height": 69,
+          "file": "assets/word/ripped/cga/frames/02010/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            118,
+            72,
+            144,
+            104
+          ],
+          "width": 33,
+          "height": 27,
+          "file": "assets/word/ripped/cga/frames/02010/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            163,
+            112,
+            194,
+            152
+          ],
+          "width": 41,
+          "height": 32,
+          "file": "assets/word/ripped/cga/frames/02010/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 2010,
+          "rectangle_inclusive_yxyx": [
+            163,
+            12,
+            194,
+            52
+          ],
+          "width": 41,
+          "height": 32,
+          "file": "assets/word/ripped/cga/frames/02010/020.png"
+        }
+      ]
+    },
+    {
+      "id": 6000,
+      "frame_count": 20,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            100,
+            0,
+            122,
+            46
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            1,
+            151,
+            23,
+            197
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            34,
+            116,
+            56,
+            162
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            100,
+            94,
+            122,
+            140
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            98,
+            47,
+            120,
+            93
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            36,
+            65,
+            58,
+            111
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            65,
+            104,
+            87,
+            150
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            3,
+            7,
+            25,
+            53
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            3,
+            101,
+            25,
+            147
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            3,
+            55,
+            25,
+            101
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            67,
+            164,
+            89,
+            192
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            66,
+            51,
+            88,
+            97
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            127,
+            159,
+            149,
+            205
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            99,
+            153,
+            121,
+            199
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            131,
+            50,
+            153,
+            96
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            36,
+            6,
+            58,
+            52
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            34,
+            162,
+            56,
+            208
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            126,
+            1,
+            148,
+            47
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            128,
+            110,
+            140,
+            156
+          ],
+          "width": 47,
+          "height": 13,
+          "file": "assets/word/ripped/cga/frames/06000/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 6000,
+          "rectangle_inclusive_yxyx": [
+            66,
+            0,
+            88,
+            46
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/cga/frames/06000/019.png"
+        }
+      ]
+    },
+    {
+      "id": 6002,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6002,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/word/ripped/cga/frames/06002/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6004,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6004,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/word/ripped/cga/frames/06004/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6008,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6008,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/word/ripped/cga/frames/06008/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6050,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6050,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            319,
+            199
+          ],
+          "width": 200,
+          "height": 320,
+          "file": "assets/word/ripped/cga/frames/06050/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6052,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6052,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            319,
+            199
+          ],
+          "width": 200,
+          "height": 320,
+          "file": "assets/word/ripped/cga/frames/06052/000.png"
+        }
+      ]
+    }
+  ],
+  "contact_sheet": "assets/word/ripped/cga/contact-sheet.png"
+}

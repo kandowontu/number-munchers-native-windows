@@ -1,0 +1,706 @@
+{
+  "source": "original-media\\Word Munchers.vhd",
+  "source_sha256": "6495ceefde1b00533c1d7d95a0e1709a3edd3229870eaf54ad042182f5dddf56",
+  "partition_lba": 63,
+  "filesystem": "FAT12",
+  "bytes_per_sector": 512,
+  "sectors_per_cluster": 8,
+  "entries": [
+    {
+      "path": "IO.SYS",
+      "size": 131100,
+      "sha256": "860e8d5cdf862f7c959cce7c3e1d41603083b67c5468229f8246e65b2ab1c251",
+      "attributes": 39,
+      "first_cluster": 2,
+      "modified": "2003-11-28T16:35:48"
+    },
+    {
+      "path": "MSDOS.SYS",
+      "size": 9,
+      "sha256": "6b36d6b9cfb8d0f43fa6e9fc96cc19987dca2e85f845ea06be7fdca8f5eeb11a",
+      "attributes": 39,
+      "first_cluster": 35,
+      "modified": "2003-11-28T16:35:48"
+    },
+    {
+      "path": "COMMAND.COM",
+      "size": 94292,
+      "sha256": "4c996f1b871e35972ff50a73078095cd4928691717d89818788dbf4c4bbfb375",
+      "attributes": 32,
+      "first_cluster": 36,
+      "modified": "2003-05-05T22:22:00"
+    },
+    {
+      "path": "DRVSPACE.BIN",
+      "size": 68871,
+      "sha256": "5ba68b3ab3488b3b2713f4dccc6f9d1cbed3daa40578ed8b556d4df2fa84eafe",
+      "attributes": 39,
+      "first_cluster": 60,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 16,
+      "first_cluster": 77,
+      "modified": "2024-04-08T03:40:02"
+    },
+    {
+      "path": "DOS/FORMAT.COM",
+      "size": 49655,
+      "sha256": "e387e2c9564deacbd2dcf6339733137abe755aec263cee7dd228ad22def846e5",
+      "attributes": 32,
+      "first_cluster": 83,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/FDISK.EXE",
+      "size": 64668,
+      "sha256": "c5c9d907c58d2adfb4e841d82d072a96834bafdd2ccf4b5d219d2e5af556d66b",
+      "attributes": 32,
+      "first_cluster": 96,
+      "modified": "2004-01-25T12:34:32"
+    },
+    {
+      "path": "DOS/EDIT.COM",
+      "size": 72174,
+      "sha256": "c0d695d67aca6c9ae4412e9145028b9423a9c7b97f3ffdc53d87be4c956e700d",
+      "attributes": 32,
+      "first_cluster": 112,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/HIMEM.SYS",
+      "size": 33191,
+      "sha256": "af6eb4b44d8a1bcfab0eb2f21b62f3b45820b9d855ded1b9f51f280386f1ee2f",
+      "attributes": 32,
+      "first_cluster": 130,
+      "modified": "2001-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/EMM386.EXE",
+      "size": 125495,
+      "sha256": "4ff6f46970ee34eee0052fa504348915372bcf7c0458e606488fe5cddca797f2",
+      "attributes": 32,
+      "first_cluster": 139,
+      "modified": "2001-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/MSCDEX.EXE",
+      "size": 25473,
+      "sha256": "6bc3f4c4beb693e99ce119444bd4052014cbc9b2c7495791eaa9ff89c26c9217",
+      "attributes": 32,
+      "first_cluster": 170,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/CTMOUSE.EXE",
+      "size": 5710,
+      "sha256": "02cda6d6185cd468c4d7ebd1a12b876287f9bd15f6bfe3f7a374ce0b00f63707",
+      "attributes": 32,
+      "first_cluster": 177,
+      "modified": "2003-10-25T17:46:30"
+    },
+    {
+      "path": "DOS/XCOPY.EXE",
+      "size": 24568,
+      "sha256": "9f4584b1db44c51d32d8fe22ea9b09b24db52a129ea13d062d19415b81e3739b",
+      "attributes": 32,
+      "first_cluster": 179,
+      "modified": "2004-03-27T20:22:10"
+    },
+    {
+      "path": "DOS/CP437UNI.TBL",
+      "size": 282,
+      "sha256": "ca2197bbef1ad24204e11635458ea3ab018b41473cc194d5b10baeb6d1296d55",
+      "attributes": 32,
+      "first_cluster": 185,
+      "modified": "1998-07-20T00:07:00"
+    },
+    {
+      "path": "DOS/DOSLFN.COM",
+      "size": 14819,
+      "sha256": "dae6c3843629ff4180105b45e5d838b8b7fef0a7f8e7378254350036903c1094",
+      "attributes": 32,
+      "first_cluster": 186,
+      "modified": "2004-04-05T17:48:20"
+    },
+    {
+      "path": "DOS/SYS.COM",
+      "size": 19159,
+      "sha256": "4b32f35e1e22c1c8f14f537832e8af307f79ff09a6e03203de25e8b59bc60546",
+      "attributes": 32,
+      "first_cluster": 190,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/MEM.EXE",
+      "size": 14849,
+      "sha256": "3d9fb1e91e17f9341087281307de2a478cbd7ec4dceb4a49cc946b4aed43fce6",
+      "attributes": 32,
+      "first_cluster": 195,
+      "modified": "2003-11-23T08:53:20"
+    },
+    {
+      "path": "DOS/SUBST.EXE",
+      "size": 6204,
+      "sha256": "959198c0dc72c863a5807e7801e146cda36a9e6250b14b4df5e13dfc6a07b26a",
+      "attributes": 32,
+      "first_cluster": 199,
+      "modified": "2003-12-29T19:26:26"
+    },
+    {
+      "path": "DOS/DELTREE.EXE",
+      "size": 19391,
+      "sha256": "15f0e8f7d52558ee36bdf4bc845b1e761a20266bf25e14a8a58a3473fe1f58a5",
+      "attributes": 32,
+      "first_cluster": 201,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/AUTOEXEC.UMB",
+      "size": 342,
+      "sha256": "eff2c9533b2d856216763969cf2dd8b674a8698f6e47bbe6184bb740d9521b46",
+      "attributes": 32,
+      "first_cluster": 206,
+      "modified": "2024-02-18T20:58:06"
+    },
+    {
+      "path": "DOS/CONFIG.UMB",
+      "size": 262,
+      "sha256": "195f4732dc6c30f5bd094643932cc02472433f611e93975977083580562c5b6d",
+      "attributes": 32,
+      "first_cluster": 207,
+      "modified": "2024-02-18T22:54:18"
+    },
+    {
+      "path": "DOS/LOADFIX.COM",
+      "size": 1131,
+      "sha256": "8e62654a49bd88c784c53f25e9fba13c641624d6a02214385115f66ccf1ecfdb",
+      "attributes": 32,
+      "first_cluster": 208,
+      "modified": "2000-01-10T20:00:00"
+    },
+    {
+      "path": "DOS/CHOICE.COM",
+      "size": 5335,
+      "sha256": "c8347297ca8b2de1cc8d1c22a4777bf16d8fe2674c85ccc38cf9d62dd6b581b5",
+      "attributes": 32,
+      "first_cluster": 209,
+      "modified": "1999-05-05T22:22:00"
+    },
+    {
+      "path": "DOS/D.EXE",
+      "size": 5892,
+      "sha256": "efc953ffa210d92002eb7419957a146508dbd7feffb87f8a78347f3d77b1b30d",
+      "attributes": 32,
+      "first_cluster": 211,
+      "modified": "1993-03-29T22:49:18"
+    },
+    {
+      "path": "DOS/DF.EXE",
+      "size": 11265,
+      "sha256": "694c050ebd5d7a5116895a632aa9b796c692de4dd7fe46e8d27ab18af873eb74",
+      "attributes": 32,
+      "first_cluster": 213,
+      "modified": "1990-07-26T13:29:12"
+    },
+    {
+      "path": "DOS/ED.EXE",
+      "size": 44768,
+      "sha256": "f2a51a443d8efe15fe57aee13664926a54257d4aec2f250cd14892e11aca0e42",
+      "attributes": 32,
+      "first_cluster": 216,
+      "modified": "2023-09-22T02:08:36"
+    },
+    {
+      "path": "DOS/CHKSTATE.SYS",
+      "size": 41600,
+      "sha256": "8e28aaec61091ca0b24dcc23b1687d20d47aed8d8282cfbc11c9a86cb7accaff",
+      "attributes": 32,
+      "first_cluster": 227,
+      "modified": "1997-04-27T14:26:02"
+    },
+    {
+      "path": "DOS/LABEL.EXE",
+      "size": 9390,
+      "sha256": "05d7a96df8db07eb444a8a02180fa00b90722cc9db2bbf4eba891a0fec84cc97",
+      "attributes": 32,
+      "first_cluster": 238,
+      "modified": "2024-03-28T04:21:36"
+    },
+    {
+      "path": "DOS/MEMMAKER.EXE",
+      "size": 98513,
+      "sha256": "f4470dce1df7d0214d29cb25785441c2e619b37326362d8b34ad0831d57a9f89",
+      "attributes": 32,
+      "first_cluster": 241,
+      "modified": "1997-04-27T14:26:02"
+    },
+    {
+      "path": "DOS/MEMMAKER.HLP",
+      "size": 17237,
+      "sha256": "2f70e0832f9ca524d85cd2749c6945cc3e6f4e01cfc46bba926754931ff26982",
+      "attributes": 32,
+      "first_cluster": 266,
+      "modified": "1997-04-27T14:26:02"
+    },
+    {
+      "path": "DOS/MEMMAKER.INI",
+      "size": 2911,
+      "sha256": "5a0caba1f5371024e03189733111c14921ef005ed00c6d8282366ad5002e4c8f",
+      "attributes": 32,
+      "first_cluster": 271,
+      "modified": "1997-04-27T14:26:02"
+    },
+    {
+      "path": "DOS/MEMMAKER.STS",
+      "size": 1262,
+      "sha256": "934703f1310759fe1699b912304f52171d0b4f0ec85507d7311b7ad6a02050d0",
+      "attributes": 32,
+      "first_cluster": 272,
+      "modified": "2024-02-19T02:34:16"
+    },
+    {
+      "path": "DOS/SIZER.EXE",
+      "size": 7169,
+      "sha256": "a36286ce956647116beec02bd793a1db92b2448e64e59725aae48328e20dd8e3",
+      "attributes": 32,
+      "first_cluster": 273,
+      "modified": "1997-04-27T14:26:02"
+    },
+    {
+      "path": "DRIVERS/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 16,
+      "first_cluster": 78,
+      "modified": "2024-04-08T03:40:04"
+    },
+    {
+      "path": "DRIVERS/VIDE-CDD.SYS",
+      "size": 11188,
+      "sha256": "1d74d7ca6cdf790d86136c06ee06f97ed2f3b4731ec272d07a6fe5ebca88a9f1",
+      "attributes": 32,
+      "first_cluster": 275,
+      "modified": "2020-09-19T22:18:54"
+    },
+    {
+      "path": "DRIVERS/OAKCDROM.SYS",
+      "size": 41302,
+      "sha256": "271741afed904996a5ab9c269c44af367e9eccd1976ec972e04a5c5ddf5edfc5",
+      "attributes": 32,
+      "first_cluster": 278,
+      "modified": "2020-09-19T22:17:52"
+    },
+    {
+      "path": "UTIL/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 16,
+      "first_cluster": 79,
+      "modified": "2024-04-08T03:40:04"
+    },
+    {
+      "path": "UTIL/DOSKEY.COM",
+      "size": 13130,
+      "sha256": "7ad83afb79eddd5e5b74238c6e80b4cb8d3417f3efc90790f6132b6b4363cd96",
+      "attributes": 32,
+      "first_cluster": 289,
+      "modified": "2018-04-14T19:11:20"
+    },
+    {
+      "path": "UTIL/DOSKEY.TXT",
+      "size": 15180,
+      "sha256": "360e309dec6ca582dad677760c633c2f5cf9c98544fa65f62aacbe8f5255f3c6",
+      "attributes": 32,
+      "first_cluster": 293,
+      "modified": "2018-04-14T19:11:00"
+    },
+    {
+      "path": "UTIL/INSTALLC.BAT",
+      "size": 282,
+      "sha256": "d9fd9484c6bc6531ccca08d7ee93b2d08c1233c3164d1c347685413623eead64",
+      "attributes": 32,
+      "first_cluster": 297,
+      "modified": "2024-02-18T18:17:48"
+    },
+    {
+      "path": "UTIL/AUTOEXEC.BAT",
+      "size": 342,
+      "sha256": "1a94434dbd19747341c6dde44a859fcec11b0140f029b2f408ea5061a2ad80c0",
+      "attributes": 32,
+      "first_cluster": 298,
+      "modified": "2024-02-18T18:14:14"
+    },
+    {
+      "path": "UTIL/CONFIG.SYS",
+      "size": 258,
+      "sha256": "fec97f3bca6ed09d2bb79cc91cfaad32381a814873a6dd959c93f407e6b1b550",
+      "attributes": 32,
+      "first_cluster": 299,
+      "modified": "2024-02-18T18:13:50"
+    },
+    {
+      "path": "UTIL/KEYPRESS.COM",
+      "size": 1424,
+      "sha256": "fd8173cd08813a074034e695722cfe072c54cd654ae133992065acfd3c6b6765",
+      "attributes": 32,
+      "first_cluster": 300,
+      "modified": "1991-03-19T05:09:42"
+    },
+    {
+      "path": "UTIL/AUTOTYPE.COM",
+      "size": 21,
+      "sha256": "2537535e7f16c14386f6e6c3d5e61c1b84ca07580ffd125108b152e284823162",
+      "attributes": 32,
+      "first_cluster": 301,
+      "modified": "2002-10-01T18:34:56"
+    },
+    {
+      "path": "UTIL/XMSDSK.EXE",
+      "size": 20016,
+      "sha256": "d3a79e8aeffbccd18ecc03de49f56aaa5475f18e2ca3155d205e9f436aab232c",
+      "attributes": 32,
+      "first_cluster": 302,
+      "modified": "1998-08-12T00:09:00"
+    },
+    {
+      "path": "UTIL/SBMIX.EXE",
+      "size": 4233,
+      "sha256": "a30f6eb996078a0b516c3e2bd6395e66ba29c0cd00496c8dca8db38e2a71e720",
+      "attributes": 32,
+      "first_cluster": 307,
+      "modified": "2020-01-21T22:01:10"
+    },
+    {
+      "path": "MISTER/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 16,
+      "first_cluster": 80,
+      "modified": "2024-04-08T03:40:04"
+    },
+    {
+      "path": "MISTER/IMGSET.EXE",
+      "size": 9716,
+      "sha256": "0b94ce2fdc9a1fb3f030d5ccadbbe6f12d047bf53b36847d9bd29c7b6fe2133f",
+      "attributes": 32,
+      "first_cluster": 309,
+      "modified": "2024-02-16T13:05:30"
+    },
+    {
+      "path": "MISTER/MISTERFS.EXE",
+      "size": 7005,
+      "sha256": "cc40cf058de9f08b7dbc711f6e6f6e5561fd3b54eb7f5aecd21561c23b02207f",
+      "attributes": 32,
+      "first_cluster": 312,
+      "modified": "2024-02-16T13:05:40"
+    },
+    {
+      "path": "MISTER/MPUCTL.EXE",
+      "size": 14548,
+      "sha256": "1ec0dab2103f08f4045256fe624c29c4e20636e045b15aa13fe64e2f622d24e9",
+      "attributes": 32,
+      "first_cluster": 314,
+      "modified": "2024-02-16T13:06:18"
+    },
+    {
+      "path": "MISTER/SBCTL.EXE",
+      "size": 9380,
+      "sha256": "f4d8b4fed3ece5f8a7066fcf3095ba9e62c5109923da5db847612300eccb5d16",
+      "attributes": 32,
+      "first_cluster": 318,
+      "modified": "2024-02-16T13:06:30"
+    },
+    {
+      "path": "MISTER/SYSCTL.EXE",
+      "size": 9818,
+      "sha256": "bc25f14b41b0b3252de7c5cb4d64a014353e793c4dc3b899037fc001ab304224",
+      "attributes": 32,
+      "first_cluster": 321,
+      "modified": "2024-02-16T13:06:38"
+    },
+    {
+      "path": "BOOTLOG.TXT",
+      "size": 309,
+      "sha256": "cbe060b60ee11153f7f0e57fcaa4a0459ed7dc63f172e8f1c9a11b94a3785d55",
+      "attributes": 34,
+      "first_cluster": 81,
+      "modified": "2026-02-12T23:16:46"
+    },
+    {
+      "path": "BOOTLOG.PRV",
+      "size": 309,
+      "sha256": "d9bd2c34c2ee267dd9d34da96819af2a9fdd029f4eb067c000c05c1edf6afafe",
+      "attributes": 34,
+      "first_cluster": 82,
+      "modified": "2026-02-12T23:15:56"
+    },
+    {
+      "path": "SYSTEM~1/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 22,
+      "first_cluster": 324,
+      "modified": "2024-04-08T18:28:22"
+    },
+    {
+      "path": "SYSTEM~1/WPSETT~1.DAT",
+      "size": 12,
+      "sha256": "07a2212dfe0060a8053ac128250d5d9225e69bac8a076eb25641a6d7f480ab8a",
+      "attributes": 32,
+      "first_cluster": 325,
+      "modified": "2024-04-08T18:28:22"
+    },
+    {
+      "path": "SYSTEM~1/INDEXE~1",
+      "size": 76,
+      "sha256": "d2bc2c76550c03fa1876237587d3b89e37a790c70597100d8831a9abab46928d",
+      "attributes": 32,
+      "first_cluster": 1465,
+      "modified": "2026-01-28T21:56:56"
+    },
+    {
+      "path": "$RECYCLE.BIN/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 22,
+      "first_cluster": 1463,
+      "modified": "2024-04-08T18:28:32"
+    },
+    {
+      "path": "$RECYCLE.BIN/DESKTOP.INI",
+      "size": 129,
+      "sha256": "e1b9ce9b57957b1a0607a72a057d6b7a9b34ea60f3f8aa8f38a3af979bd23066",
+      "attributes": 38,
+      "first_cluster": 1464,
+      "modified": "2024-04-08T18:28:32"
+    },
+    {
+      "path": "AUTOEXEC.BAT",
+      "size": 404,
+      "sha256": "82c79fb5e69b6d9ef6a27c42f3d38fc9f3722de8b026821e744e39e5a4fce6fd",
+      "attributes": 32,
+      "first_cluster": 466,
+      "modified": "2026-02-12T23:15:08"
+    },
+    {
+      "path": "CONFIG.SYS",
+      "size": 258,
+      "sha256": "2e35e79cabbfbd315e60bc67d445f79e62a743163d3628cc69a280faffe33a2d",
+      "attributes": 32,
+      "first_cluster": 1466,
+      "modified": "2024-04-09T00:21:44"
+    },
+    {
+      "path": "CHEESY/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 16,
+      "first_cluster": 326,
+      "modified": "2026-02-12T22:59:10"
+    },
+    {
+      "path": "CHEESY/FILE_ID.DIZ",
+      "size": 585,
+      "sha256": "d7c3c585e74705f13d65ec3d4158bd68ad178bf9b81b39407f172c11aa34043a",
+      "attributes": 33,
+      "first_cluster": 327,
+      "modified": "1994-07-17T06:21:24"
+    },
+    {
+      "path": "CHEESY/INV.DOC",
+      "size": 3904,
+      "sha256": "a1b15fbafe63cef3dd23a171ba0bad073336430da85ce6c53a6dd56026ec31d0",
+      "attributes": 32,
+      "first_cluster": 328,
+      "modified": "1995-11-23T23:22:32"
+    },
+    {
+      "path": "CHEESY/START.COM",
+      "size": 1969,
+      "sha256": "5855586c3146854b50f85b34e38a5a26d0d8dc67f14b0497bb85abbf6b273af2",
+      "attributes": 33,
+      "first_cluster": 330,
+      "modified": "1995-05-10T02:52:22"
+    },
+    {
+      "path": "CHEESY/INV.RD",
+      "size": 10362,
+      "sha256": "d0c854ddae5aec582e9e306b8fd9ca4eaf4fab4771109a79d97a4e89456f4ce7",
+      "attributes": 32,
+      "first_cluster": 331,
+      "modified": "1994-09-11T23:31:48"
+    },
+    {
+      "path": "CHEESY/INV.RES",
+      "size": 1114856,
+      "sha256": "42f1aa87e2a56c99b1af4c8c007838c901c85bdd20f4cb54f853003b5bec2438",
+      "attributes": 32,
+      "first_cluster": 646,
+      "modified": "1994-09-11T23:31:48"
+    },
+    {
+      "path": "CHEESY/INV.SCO",
+      "size": 140,
+      "sha256": "30620bd5c92ee4b54107be82ae2986522a3debdbbe2641b3edd0845622cfc691",
+      "attributes": 33,
+      "first_cluster": 602,
+      "modified": "1995-06-15T11:17:22"
+    },
+    {
+      "path": "CHEESY/INV.EXE",
+      "size": 174692,
+      "sha256": "cf6393539d0c9032c9d58f6be8200ebf51db9b8a3124aad682a5ae30d9cb9bf1",
+      "attributes": 32,
+      "first_cluster": 603,
+      "modified": "1995-11-23T23:24:18"
+    },
+    {
+      "path": "WM/",
+      "size": 0,
+      "sha256": null,
+      "attributes": 16,
+      "first_cluster": 329,
+      "modified": "2026-02-12T23:14:56"
+    },
+    {
+      "path": "WM/BIT5X8.GFT",
+      "size": 1158,
+      "sha256": "fdc1577ee269c78201cd4a98491946e180307bddce219f488f892d499f57e3a0",
+      "attributes": 32,
+      "first_cluster": 334,
+      "modified": "1991-08-09T13:19:00"
+    },
+    {
+      "path": "WM/BIT8X8.GFT",
+      "size": 2646,
+      "sha256": "82f9ae1a8e534f747965d1dc7c4919ab8998cd8a53810e68b79b5f7250c7a973",
+      "attributes": 32,
+      "first_cluster": 335,
+      "modified": "1991-08-09T13:19:00"
+    },
+    {
+      "path": "WM/CGA.BGI",
+      "size": 6253,
+      "sha256": "8849abf5aa92a922236265fc5bb59b685552fbdc8eb1d1e283fe16e36a3aa23f",
+      "attributes": 32,
+      "first_cluster": 336,
+      "modified": "1989-05-11T04:01:00"
+    },
+    {
+      "path": "WM/CGA.RES",
+      "size": 85637,
+      "sha256": "dbcf22a13b49bd6707b3f980e3b0863545136b69163b1b026ec8bce4debd0803",
+      "attributes": 32,
+      "first_cluster": 338,
+      "modified": "1991-08-09T13:19:00"
+    },
+    {
+      "path": "WM/CHKLIST.MS",
+      "size": 81,
+      "sha256": "dac159835772efa54661d659f8d7ca61512e9a132749835b29ddf6d7bbc9a531",
+      "attributes": 32,
+      "first_cluster": 359,
+      "modified": "1994-11-15T17:09:36"
+    },
+    {
+      "path": "WM/FILE_ID.DIZ",
+      "size": 168,
+      "sha256": "74aa524c9c713b3e92e3bb1215c1547658ac326f018d0e3b4e54dc2add9e72bf",
+      "attributes": 32,
+      "first_cluster": 360,
+      "modified": "2016-11-13T23:19:54"
+    },
+    {
+      "path": "WM/INSTALL.EXE",
+      "size": 13417,
+      "sha256": "8bb455c2a5a76a511028c901241ea334f529498a322cb3952aeeeef82067d3b5",
+      "attributes": 32,
+      "first_cluster": 361,
+      "modified": "1991-08-09T13:14:00"
+    },
+    {
+      "path": "WM/LOGO.004",
+      "size": 1562,
+      "sha256": "f4373c8578a604275550ba0cacd6fd66a2a4dd38befcdc6f1aa123fe822bd8ba",
+      "attributes": 32,
+      "first_cluster": 365,
+      "modified": "1991-08-09T13:19:00"
+    },
+    {
+      "path": "WM/LOGO.256",
+      "size": 2117,
+      "sha256": "75896a90c1114721a2681eb79bc1e76b9afc846810d92341672e0e568e69d1bf",
+      "attributes": 32,
+      "first_cluster": 366,
+      "modified": "1991-08-09T13:19:00"
+    },
+    {
+      "path": "WM/MCGA.RES",
+      "size": 213837,
+      "sha256": "1b029b81e3cc4d114a453c3749948ff61e7b0e26a3f70814f80a992add5fe8bc",
+      "attributes": 32,
+      "first_cluster": 367,
+      "modified": "1991-08-09T13:20:00"
+    },
+    {
+      "path": "WM/PRODUCT.PF",
+      "size": 350,
+      "sha256": "265158c6dde6b2a919fa58bb3a7510725f4df518949d4b7c6e47da12075e80a5",
+      "attributes": 32,
+      "first_cluster": 420,
+      "modified": "1991-08-13T17:11:42"
+    },
+    {
+      "path": "WM/README",
+      "size": 2637,
+      "sha256": "131e965bd1462815faa6a78ca4d17ed482a41baca54ac777f653e408c15dbe84",
+      "attributes": 32,
+      "first_cluster": 421,
+      "modified": "1991-08-09T13:14:00"
+    },
+    {
+      "path": "WM/VGA256.BGI",
+      "size": 3289,
+      "sha256": "c06ee0a42bf368448cf6c05ddd9e811896396036477cd4b6aaf8dcd805584463",
+      "attributes": 32,
+      "first_cluster": 422,
+      "modified": "1989-05-31T03:00:00"
+    },
+    {
+      "path": "WM/WLIST.BIN",
+      "size": 13474,
+      "sha256": "6bb68a54d58098d4438c1ebc2ac4efb0063b4211894405ba4dab2402ba9a0e91",
+      "attributes": 32,
+      "first_cluster": 423,
+      "modified": "1991-08-09T13:19:00"
+    },
+    {
+      "path": "WM/WM.CFG",
+      "size": 636,
+      "sha256": "644424464fb69197c3cfbd4ff60056c28c5b9a617d4a9d3ebcebca8ac4d9bd94",
+      "attributes": 32,
+      "first_cluster": 427,
+      "modified": "1998-07-02T17:07:58"
+    },
+    {
+      "path": "WM/WM.EXE",
+      "size": 179344,
+      "sha256": "ef9c02d87e994e4874c698f553574812a2ea8e9bbcb20220f3665af4da00f728",
+      "attributes": 32,
+      "first_cluster": 467,
+      "modified": "1991-08-09T13:18:00"
+    },
+    {
+      "path": "WM/WM.RES",
+      "size": 30890,
+      "sha256": "ca3f86791024626b29fb384439955e2dd0f87620d61b93cd80765daf81d3815e",
+      "attributes": 32,
+      "first_cluster": 511,
+      "modified": "1991-08-09T13:19:00"
+    }
+  ]
+}

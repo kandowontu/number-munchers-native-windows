@@ -1,0 +1,227 @@
+{
+  "source": "extracted\\word-munchers\\WM\\WM.RES",
+  "source_size": 30890,
+  "source_sha256": "ca3f86791024626b29fb384439955e2dd0f87620d61b93cd80765daf81d3815e",
+  "data_offset": 404,
+  "type_count": 6,
+  "types": [
+    {
+      "tag": "CONF",
+      "entry_count": 1,
+      "table_offset": 52,
+      "entries": [
+        {
+          "id": 1000,
+          "offset": 404,
+          "size": 636,
+          "flags": 0,
+          "sha256": "8dfb988d3356786ebf1d64dc7777f3cb09ee8f4894695984300b26934bf1efd6",
+          "file": "CONF/01000.conf"
+        }
+      ]
+    },
+    {
+      "tag": "DATA",
+      "entry_count": 1,
+      "table_offset": 68,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 1040,
+          "size": 7750,
+          "flags": 0,
+          "sha256": "90aeba21716b328c82e1f917287995137878d713973bc1ab28d6be68bc40dc51",
+          "file": "DATA/00001.data"
+        }
+      ]
+    },
+    {
+      "tag": "GSND",
+      "entry_count": 2,
+      "table_offset": 84,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 8790,
+          "size": 834,
+          "flags": 0,
+          "sha256": "6a39c656640059932faed725f1bfcf2379af134993dcd59e869271e46e0ff6bb",
+          "file": "GSND/00001.gsnd"
+        },
+        {
+          "id": 2,
+          "offset": 9624,
+          "size": 2147,
+          "flags": 0,
+          "sha256": "8d5cc45ee4e751450999d8e59b031f4fcfc3a5c93eb226fa7095ca27d69cfbc5",
+          "file": "GSND/00002.gsnd"
+        }
+      ]
+    },
+    {
+      "tag": "PSND",
+      "entry_count": 6,
+      "table_offset": 116,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 11771,
+          "size": 1166,
+          "flags": 0,
+          "sha256": "e6066f32d927c8c23a4fd54d21d5cf3ceb2d18bf9612b60582505030202bb012",
+          "file": "PSND/00001.psnd"
+        },
+        {
+          "id": 2,
+          "offset": 12937,
+          "size": 1100,
+          "flags": 0,
+          "sha256": "828e78eaf58b8dc62af92ba39c01d39b30d43ff9803f766f2c2269a78974862a",
+          "file": "PSND/00002.psnd"
+        },
+        {
+          "id": 3,
+          "offset": 14037,
+          "size": 1068,
+          "flags": 0,
+          "sha256": "4fa7a3e53efeb643037a74a170fa2c73ce218c67edfecece4d230860d7962efe",
+          "file": "PSND/00003.psnd"
+        },
+        {
+          "id": 4,
+          "offset": 15105,
+          "size": 1082,
+          "flags": 0,
+          "sha256": "ac080571db3e23dcadc22a17e09fb2c2906ca14759f621f4d7690e6f87508137",
+          "file": "PSND/00004.psnd"
+        },
+        {
+          "id": 5,
+          "offset": 16187,
+          "size": 1168,
+          "flags": 0,
+          "sha256": "1e9c19f3f3577996d0302cf1694285b848585b54ad7a559adeb9ac177e33af2d",
+          "file": "PSND/00005.psnd"
+        },
+        {
+          "id": 6,
+          "offset": 17355,
+          "size": 1168,
+          "flags": 0,
+          "sha256": "1e9c19f3f3577996d0302cf1694285b848585b54ad7a559adeb9ac177e33af2d",
+          "file": "PSND/00006.psnd"
+        }
+      ]
+    },
+    {
+      "tag": "ADLI",
+      "entry_count": 6,
+      "table_offset": 212,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 18523,
+          "size": 1307,
+          "flags": 0,
+          "sha256": "9fcb90886c6de1138bb0d06b78fd99e0fc4486d2c2ea005a87577e6cafd9a983",
+          "file": "ADLI/00001.adli"
+        },
+        {
+          "id": 2,
+          "offset": 19830,
+          "size": 1458,
+          "flags": 0,
+          "sha256": "aa24157635cc40effb0a3d46c6a1a641966debcdfe6f08b7813eb7c719c3b499",
+          "file": "ADLI/00002.adli"
+        },
+        {
+          "id": 3,
+          "offset": 21288,
+          "size": 1291,
+          "flags": 0,
+          "sha256": "c5d1cc00ae17cffd057bae1e659d41aa3087b4420126a15363835110996976b9",
+          "file": "ADLI/00003.adli"
+        },
+        {
+          "id": 4,
+          "offset": 22579,
+          "size": 1164,
+          "flags": 0,
+          "sha256": "218164ea536d1d368bfd2c07b41cc04d282417c4f7fb9347d370b7ebcca4b7c6",
+          "file": "ADLI/00004.adli"
+        },
+        {
+          "id": 5,
+          "offset": 23743,
+          "size": 1570,
+          "flags": 0,
+          "sha256": "88583a1d638d65179f50b0342dcec684d889c00f9e391833a6a0893ceae0e252",
+          "file": "ADLI/00005.adli"
+        },
+        {
+          "id": 6,
+          "offset": 25313,
+          "size": 2099,
+          "flags": 0,
+          "sha256": "82c9114cc8a0479c801d18a382029c692aa03c44f9e727379dc602047154f4bd",
+          "file": "ADLI/00006.adli"
+        }
+      ]
+    },
+    {
+      "tag": "SCPT",
+      "entry_count": 6,
+      "table_offset": 308,
+      "entries": [
+        {
+          "id": 2000,
+          "offset": 27412,
+          "size": 406,
+          "flags": 0,
+          "sha256": "a1352c220b9e7b0422ae93ea411e5ade5ef64b30f386e062712daccc37f7bdbc",
+          "file": "SCPT/02000.scpt"
+        },
+        {
+          "id": 2002,
+          "offset": 27818,
+          "size": 416,
+          "flags": 0,
+          "sha256": "e7aeb468d46ff2136d48a57cb9a1fc7e592e0441fff5a7ca5a4f0ec7d3b23cb1",
+          "file": "SCPT/02002.scpt"
+        },
+        {
+          "id": 2004,
+          "offset": 28234,
+          "size": 518,
+          "flags": 0,
+          "sha256": "cbd5a54e9d98cc361812437214c5f5606efc54249cfc5f66b01f419ab2ce5241",
+          "file": "SCPT/02004.scpt"
+        },
+        {
+          "id": 2006,
+          "offset": 28752,
+          "size": 332,
+          "flags": 0,
+          "sha256": "471f9a0de6d218fd9f3776c7ac44494b34d9ea3ebb9cd41a9ba1112384261224",
+          "file": "SCPT/02006.scpt"
+        },
+        {
+          "id": 2008,
+          "offset": 29084,
+          "size": 478,
+          "flags": 0,
+          "sha256": "6b3e08675b059c83a7b6661e34a3a40f9ecfa025c6f9d7056c18af1527eeea72",
+          "file": "SCPT/02008.scpt"
+        },
+        {
+          "id": 2010,
+          "offset": 29562,
+          "size": 1328,
+          "flags": 0,
+          "sha256": "01b6763794fa5703fdd61fabbb73d985e0cc555b454b8d2ab551238ffe1bcfbc",
+          "file": "SCPT/02010.scpt"
+        }
+      ]
+    }
+  ]
+}

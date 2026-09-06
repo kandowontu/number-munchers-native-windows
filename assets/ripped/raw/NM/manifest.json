@@ -1,0 +1,171 @@
+{
+  "source": "extracted\\disk\\NMUNCH\\NM.RES",
+  "source_size": 28181,
+  "source_sha256": "5197a7803e0c10cb2a5e2cbea2bb6310cc0e14c0059941dfed35f060bf0ac8f6",
+  "data_offset": 292,
+  "type_count": 6,
+  "types": [
+    {
+      "tag": "CONF",
+      "entry_count": 1,
+      "table_offset": 52,
+      "entries": [
+        {
+          "id": 1000,
+          "offset": 292,
+          "size": 2188,
+          "flags": 0,
+          "sha256": "acaa7bc14ff4e49d6073139bfe4e71710e51be7aaf2bf24fc4299eda4e0cea67",
+          "file": "CONF/01000.conf"
+        }
+      ]
+    },
+    {
+      "tag": "DATA",
+      "entry_count": 2,
+      "table_offset": 68,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 2480,
+          "size": 7750,
+          "flags": 0,
+          "sha256": "85fd5b99fac58bb3dfe954d06f53fa8c9832c453c9db29da67aab03ef4e5ade9",
+          "file": "DATA/00001.data"
+        },
+        {
+          "id": 2,
+          "offset": 10230,
+          "size": 92,
+          "flags": 0,
+          "sha256": "2e992ac53d72082ecc56c00f7b46f98f0164e6561adef44b76581890fc4531d0",
+          "file": "DATA/00002.data"
+        }
+      ]
+    },
+    {
+      "tag": "GSND",
+      "entry_count": 1,
+      "table_offset": 100,
+      "entries": [
+        {
+          "id": 12,
+          "offset": 10322,
+          "size": 3396,
+          "flags": 0,
+          "sha256": "6f07846490a067417f9a96197275ddb9fb3272d68c95ae83374a92a7a164680b",
+          "file": "GSND/00012.gsnd"
+        }
+      ]
+    },
+    {
+      "tag": "PSND",
+      "entry_count": 1,
+      "table_offset": 116,
+      "entries": [
+        {
+          "id": 11,
+          "offset": 13718,
+          "size": 979,
+          "flags": 0,
+          "sha256": "95427a3879d10c306371ec3ac5ff1a161a82c462108f4e090029cae5966f3faa",
+          "file": "PSND/00011.psnd"
+        }
+      ]
+    },
+    {
+      "tag": "ADLI",
+      "entry_count": 5,
+      "table_offset": 132,
+      "entries": [
+        {
+          "id": 11,
+          "offset": 14697,
+          "size": 1296,
+          "flags": 0,
+          "sha256": "86fc2474a875e12584f812626a8dbc354560a959f1d34bae3a8f466a03e0f550",
+          "file": "ADLI/00011.adli"
+        },
+        {
+          "id": 12,
+          "offset": 15993,
+          "size": 1591,
+          "flags": 0,
+          "sha256": "016c7234e6c99d72a7a8daf12f48d8b0f7793064ac1d20544877bcfee86ed7f0",
+          "file": "ADLI/00012.adli"
+        },
+        {
+          "id": 13,
+          "offset": 17584,
+          "size": 1475,
+          "flags": 0,
+          "sha256": "54e6779749c4ac5a8bde216120da3c7c4a1c216b1b0cd34ac49ce10d8b90e1b7",
+          "file": "ADLI/00013.adli"
+        },
+        {
+          "id": 14,
+          "offset": 19059,
+          "size": 1533,
+          "flags": 0,
+          "sha256": "5ff8cf6ac444508160f655337f84ef5e5d35045c2cd2baa2f486bb62584fc207",
+          "file": "ADLI/00014.adli"
+        },
+        {
+          "id": 15,
+          "offset": 20592,
+          "size": 1787,
+          "flags": 0,
+          "sha256": "8c4c550cec471ef28cf2a3eec6fbce23165a875d569c37849ad648518e6768fc",
+          "file": "ADLI/00015.adli"
+        }
+      ]
+    },
+    {
+      "tag": "SCPT",
+      "entry_count": 5,
+      "table_offset": 212,
+      "entries": [
+        {
+          "id": 2012,
+          "offset": 22379,
+          "size": 1202,
+          "flags": 0,
+          "sha256": "b07b362a3bc8985bbdc0044f802cd6f3fa8ffaace9228e1b2786e4c31cecaa80",
+          "file": "SCPT/02012.scpt"
+        },
+        {
+          "id": 2014,
+          "offset": 23581,
+          "size": 1182,
+          "flags": 0,
+          "sha256": "293604a0323e3beab8282e4d282986496d477e2cfe249e2508c0cb984d2a58a0",
+          "file": "SCPT/02014.scpt"
+        },
+        {
+          "id": 2016,
+          "offset": 24763,
+          "size": 970,
+          "flags": 0,
+          "sha256": "de36e0a16d48de45734162cf6380e8c87efa55eea4a390e5dd03411841e2d62d",
+          "file": "SCPT/02016.scpt"
+        },
+        {
+          "id": 2018,
+          "offset": 25733,
+          "size": 1318,
+          "flags": 0,
+          "sha256": "baf860fbc63e36067f7dcd06636cda8556db436bacad53d045fbd302620efa95",
+          "file": "SCPT/02018.scpt"
+        },
+        {
+          "id": 2020,
+          "offset": 27051,
+          "size": 1130,
+          "flags": 0,
+          "sha256": "09dbdba3b207d62914a4de4e7b152e28246bb5f65c0c4bbade2a6fa5e5bb4d85",
+          "file": "SCPT/02020.scpt"
+        }
+      ]
+    }
+  ]
+}

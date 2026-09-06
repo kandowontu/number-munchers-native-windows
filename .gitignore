@@ -1,0 +1,42 @@
+/build/
+/dist/
+/tmp/
+/original-media/
+/tools/_third_party/
+
+# Raw capture media, decoded frame dumps, and transient reverse-engineering
+# products exceed normal Git hosting limits. Keep the written audit, compact
+# relocated images/listings, and top-level machine-readable summaries.
+/analysis/**
+!/analysis/**/
+!/analysis/**/*.md
+!/analysis/*.ndisasm
+!/analysis/*.bin
+!/analysis/*.framemd5
+!/analysis/*.json
+!/analysis/*.txt
+
+# Keep only the supplied extracted files required by a clean build/test. The
+# complete disk images and original DOS executables are preservation inputs,
+# not native runtime dependencies.
+/extracted/**
+!/extracted/
+!/extracted/disk/
+!/extracted/disk/NMUNCH/
+!/extracted/disk/NMUNCH/NM.CFG
+!/extracted/word-munchers/
+!/extracted/word-munchers/WM/
+!/extracted/word-munchers/WM/WLIST.BIN
+!/extracted/word-munchers/WM/WM.RES
+!/extracted/word-munchers/WM/MCGA.RES
+!/extracted/word-munchers/WM/CGA.RES
+!/extracted/word-munchers/WM/BIT8X8.GFT
+!/extracted/word-munchers/WM/BIT5X8.GFT
+!/extracted/word-munchers/WM/WM.CFG
+!/extracted/word-munchers/WM/PRODUCT.PF
+!/extracted/word-munchers/WM/LOGO.256
+!/extracted/word-munchers/WM/LOGO.004
+*.user
+*.pdb
+__pycache__/
+*.py[cod]

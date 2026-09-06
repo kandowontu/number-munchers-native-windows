@@ -1,0 +1,4710 @@
+{
+  "index_map": null,
+  "sheets": [
+    {
+      "id": 1000,
+      "width": 213,
+      "height": 182,
+      "file": "assets/super/ripped/cga/sheets/01000.png"
+    },
+    {
+      "id": 1001,
+      "width": 210,
+      "height": 186,
+      "file": "assets/super/ripped/cga/sheets/01001.png"
+    },
+    {
+      "id": 1002,
+      "width": 202,
+      "height": 185,
+      "file": "assets/super/ripped/cga/sheets/01002.png"
+    },
+    {
+      "id": 1003,
+      "width": 208,
+      "height": 185,
+      "file": "assets/super/ripped/cga/sheets/01003.png"
+    },
+    {
+      "id": 1004,
+      "width": 160,
+      "height": 185,
+      "file": "assets/super/ripped/cga/sheets/01004.png"
+    },
+    {
+      "id": 1005,
+      "width": 204,
+      "height": 186,
+      "file": "assets/super/ripped/cga/sheets/01005.png"
+    },
+    {
+      "id": 1012,
+      "width": 182,
+      "height": 159,
+      "file": "assets/super/ripped/cga/sheets/01012.png"
+    },
+    {
+      "id": 1020,
+      "width": 240,
+      "height": 32,
+      "file": "assets/super/ripped/cga/sheets/01020.png"
+    },
+    {
+      "id": 2022,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/02022.png"
+    },
+    {
+      "id": 2026,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/02026.png"
+    },
+    {
+      "id": 2028,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/02028.png"
+    },
+    {
+      "id": 2030,
+      "width": 320,
+      "height": 165,
+      "file": "assets/super/ripped/cga/sheets/02030.png"
+    },
+    {
+      "id": 3022,
+      "width": 123,
+      "height": 144,
+      "file": "assets/super/ripped/cga/sheets/03022.png"
+    },
+    {
+      "id": 3024,
+      "width": 241,
+      "height": 141,
+      "file": "assets/super/ripped/cga/sheets/03024.png"
+    },
+    {
+      "id": 3026,
+      "width": 28,
+      "height": 103,
+      "file": "assets/super/ripped/cga/sheets/03026.png"
+    },
+    {
+      "id": 3028,
+      "width": 127,
+      "height": 150,
+      "file": "assets/super/ripped/cga/sheets/03028.png"
+    },
+    {
+      "id": 3030,
+      "width": 264,
+      "height": 195,
+      "file": "assets/super/ripped/cga/sheets/03030.png"
+    },
+    {
+      "id": 6002,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/06002.png"
+    },
+    {
+      "id": 6004,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/06004.png"
+    },
+    {
+      "id": 6008,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/06008.png"
+    },
+    {
+      "id": 6010,
+      "width": 35,
+      "height": 15,
+      "file": "assets/super/ripped/cga/sheets/06010.png"
+    },
+    {
+      "id": 6050,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/06050.png"
+    },
+    {
+      "id": 6052,
+      "width": 320,
+      "height": 200,
+      "file": "assets/super/ripped/cga/sheets/06052.png"
+    }
+  ],
+  "animations": [
+    {
+      "id": 1000,
+      "frame_count": 19,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            96,
+            152
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01000/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            96,
+            56
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01000/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            96,
+            104
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01000/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            156,
+            126,
+            200
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            156,
+            126,
+            200
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            126,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            46,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            46,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            126,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            126,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            126,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            137,
+            132,
+            166,
+            176
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            137,
+            132,
+            166,
+            176
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01000/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            140,
+            96,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/01000/016.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 17,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            140,
+            16,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/01000/017.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 18,
+          "sheet_id": 1000,
+          "rectangle_inclusive_yxyx": [
+            140,
+            56,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/01000/018.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01001/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01001/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01001/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1001,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01001/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01002/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01002/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01002/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01002/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01003/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01003/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01003/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1003,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01003/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01004/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01004/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01004/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1004,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01004/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            136,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01005/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            136,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01005/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            136,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01005/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            16,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            56,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1005,
+          "rectangle_inclusive_yxyx": [
+            96,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01005/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "frame_count": 19,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            96,
+            152
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01012/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            96,
+            56
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01012/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            96,
+            104
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/01012/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            130,
+            132,
+            126,
+            204
+          ],
+          "sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            130,
+            132,
+            126,
+            204
+          ],
+          "sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            97,
+            120,
+            126,
+            156
+          ],
+          "width": 37,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            46,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            46,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            46,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            97,
+            16,
+            126,
+            60
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            97,
+            16,
+            126,
+            60
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            97,
+            64,
+            126,
+            108
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            130,
+            92,
+            159,
+            136
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            130,
+            92,
+            159,
+            136
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/super/ripped/cga/frames/01012/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            133,
+            56,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/01012/016.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 17,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            133,
+            0,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/01012/017.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 18,
+          "sheet_id": 1012,
+          "rectangle_inclusive_yxyx": [
+            133,
+            28,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/01012/018.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1020,
+      "frame_count": 12,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            0,
+            28,
+            39
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            40,
+            28,
+            79
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            80,
+            28,
+            119
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            120,
+            28,
+            159
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            160,
+            28,
+            199
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            120,
+            28,
+            159
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            160,
+            28,
+            199
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            120,
+            28,
+            159
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            160,
+            28,
+            199
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            120,
+            28,
+            159
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            160,
+            28,
+            199
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 1020,
+          "rectangle_inclusive_yxyx": [
+            1,
+            200,
+            28,
+            239
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/01020/011.png"
+        }
+      ]
+    },
+    {
+      "id": 2022,
+      "frame_count": 30,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            160,
+            151
+          ],
+          "width": 152,
+          "height": 161,
+          "file": "assets/super/ripped/cga/frames/02022/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            160,
+            55
+          ],
+          "width": 56,
+          "height": 161,
+          "file": "assets/super/ripped/cga/frames/02022/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            83,
+            24,
+            98,
+            47
+          ],
+          "width": 24,
+          "height": 16,
+          "file": "assets/super/ripped/cga/frames/02022/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            84,
+            96,
+            93,
+            111
+          ],
+          "width": 16,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02022/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            2,
+            0,
+            26,
+            39
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            2,
+            40,
+            26,
+            79
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            2,
+            80,
+            26,
+            119
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            27,
+            0,
+            30,
+            39
+          ],
+          "width": 40,
+          "height": 4,
+          "file": "assets/super/ripped/cga/frames/02022/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            27,
+            40,
+            30,
+            79
+          ],
+          "width": 40,
+          "height": 4,
+          "file": "assets/super/ripped/cga/frames/02022/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            27,
+            80,
+            30,
+            119
+          ],
+          "width": 40,
+          "height": 4,
+          "file": "assets/super/ripped/cga/frames/02022/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            33,
+            0,
+            58,
+            39
+          ],
+          "width": 40,
+          "height": 26,
+          "file": "assets/super/ripped/cga/frames/02022/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            33,
+            40,
+            58,
+            79
+          ],
+          "width": 40,
+          "height": 26,
+          "file": "assets/super/ripped/cga/frames/02022/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            33,
+            80,
+            58,
+            119
+          ],
+          "width": 40,
+          "height": 26,
+          "file": "assets/super/ripped/cga/frames/02022/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            59,
+            0,
+            62,
+            39
+          ],
+          "width": 40,
+          "height": 4,
+          "file": "assets/super/ripped/cga/frames/02022/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            59,
+            40,
+            62,
+            79
+          ],
+          "width": 40,
+          "height": 4,
+          "file": "assets/super/ripped/cga/frames/02022/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            59,
+            80,
+            62,
+            119
+          ],
+          "width": 40,
+          "height": 4,
+          "file": "assets/super/ripped/cga/frames/02022/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            66,
+            0,
+            90,
+            39
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            66,
+            40,
+            90,
+            79
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            66,
+            80,
+            90,
+            119
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            92,
+            0,
+            94,
+            39
+          ],
+          "width": 40,
+          "height": 3,
+          "file": "assets/super/ripped/cga/frames/02022/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            92,
+            40,
+            94,
+            79
+          ],
+          "width": 40,
+          "height": 3,
+          "file": "assets/super/ripped/cga/frames/02022/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            92,
+            80,
+            94,
+            119
+          ],
+          "width": 40,
+          "height": 3,
+          "file": "assets/super/ripped/cga/frames/02022/021.png"
+        },
+        {
+          "index": 22,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            97,
+            0,
+            121,
+            39
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/022.png"
+        },
+        {
+          "index": 23,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            97,
+            40,
+            121,
+            79
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/023.png"
+        },
+        {
+          "index": 24,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            97,
+            80,
+            121,
+            119
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02022/024.png"
+        },
+        {
+          "index": 25,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            122,
+            0,
+            124,
+            39
+          ],
+          "width": 40,
+          "height": 3,
+          "file": "assets/super/ripped/cga/frames/02022/025.png"
+        },
+        {
+          "index": 26,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            122,
+            40,
+            124,
+            79
+          ],
+          "width": 40,
+          "height": 3,
+          "file": "assets/super/ripped/cga/frames/02022/026.png"
+        },
+        {
+          "index": 27,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            122,
+            80,
+            124,
+            119
+          ],
+          "width": 40,
+          "height": 3,
+          "file": "assets/super/ripped/cga/frames/02022/027.png"
+        },
+        {
+          "index": 28,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            127,
+            0,
+            142,
+            23
+          ],
+          "width": 24,
+          "height": 16,
+          "file": "assets/super/ripped/cga/frames/02022/028.png"
+        },
+        {
+          "index": 29,
+          "sheet_id": 3022,
+          "rectangle_inclusive_yxyx": [
+            127,
+            40,
+            136,
+            55
+          ],
+          "width": 16,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02022/029.png"
+        }
+      ]
+    },
+    {
+      "id": 2024,
+      "frame_count": 42,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            162,
+            319
+          ],
+          "width": 320,
+          "height": 163,
+          "file": "assets/super/ripped/cga/frames/02024/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            114,
+            168,
+            137,
+            199
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02024/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            118,
+            64,
+            132,
+            103
+          ],
+          "width": 40,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            94,
+            88,
+            108,
+            119
+          ],
+          "width": 32,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            133,
+            192,
+            150,
+            223
+          ],
+          "width": 32,
+          "height": 18,
+          "file": "assets/super/ripped/cga/frames/02024/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            114,
+            176,
+            140,
+            207
+          ],
+          "width": 32,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02024/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            115,
+            64,
+            143,
+            103
+          ],
+          "width": 40,
+          "height": 29,
+          "file": "assets/super/ripped/cga/frames/02024/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            94,
+            80,
+            125,
+            119
+          ],
+          "width": 40,
+          "height": 32,
+          "file": "assets/super/ripped/cga/frames/02024/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2022,
+          "rectangle_inclusive_yxyx": [
+            131,
+            192,
+            151,
+            223
+          ],
+          "width": 32,
+          "height": 21,
+          "file": "assets/super/ripped/cga/frames/02024/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            2,
+            0,
+            25,
+            31
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02024/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            2,
+            32,
+            25,
+            63
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02024/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            2,
+            64,
+            25,
+            95
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02024/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            31,
+            0,
+            45,
+            39
+          ],
+          "width": 40,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            31,
+            40,
+            45,
+            79
+          ],
+          "width": 40,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            31,
+            80,
+            45,
+            119
+          ],
+          "width": 40,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            31,
+            120,
+            45,
+            159
+          ],
+          "width": 40,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            50,
+            0,
+            64,
+            31
+          ],
+          "width": 32,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            50,
+            32,
+            64,
+            63
+          ],
+          "width": 32,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            50,
+            64,
+            64,
+            95
+          ],
+          "width": 32,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02024/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            69,
+            0,
+            86,
+            31
+          ],
+          "width": 32,
+          "height": 18,
+          "file": "assets/super/ripped/cga/frames/02024/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            69,
+            32,
+            86,
+            63
+          ],
+          "width": 32,
+          "height": 18,
+          "file": "assets/super/ripped/cga/frames/02024/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            69,
+            64,
+            86,
+            95
+          ],
+          "width": 32,
+          "height": 18,
+          "file": "assets/super/ripped/cga/frames/02024/021.png"
+        },
+        {
+          "index": 22,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            2,
+            96,
+            9,
+            143
+          ],
+          "width": 48,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02024/022.png"
+        },
+        {
+          "index": 23,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            2,
+            144,
+            15,
+            191
+          ],
+          "width": 48,
+          "height": 14,
+          "file": "assets/super/ripped/cga/frames/02024/023.png"
+        },
+        {
+          "index": 24,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            50,
+            96,
+            67,
+            143
+          ],
+          "width": 48,
+          "height": 18,
+          "file": "assets/super/ripped/cga/frames/02024/024.png"
+        },
+        {
+          "index": 25,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            2,
+            192,
+            28,
+            239
+          ],
+          "width": 48,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02024/025.png"
+        },
+        {
+          "index": 26,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            117,
+            0,
+            139,
+            39
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/026.png"
+        },
+        {
+          "index": 27,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            117,
+            40,
+            139,
+            79
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/027.png"
+        },
+        {
+          "index": 28,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            117,
+            80,
+            139,
+            119
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/028.png"
+        },
+        {
+          "index": 29,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            117,
+            120,
+            139,
+            159
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/029.png"
+        },
+        {
+          "index": 30,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            117,
+            160,
+            139,
+            199
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/030.png"
+        },
+        {
+          "index": 31,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            117,
+            200,
+            139,
+            239
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/031.png"
+        },
+        {
+          "index": 32,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            91,
+            0,
+            113,
+            39
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/032.png"
+        },
+        {
+          "index": 33,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            91,
+            40,
+            113,
+            79
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/033.png"
+        },
+        {
+          "index": 34,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            91,
+            80,
+            113,
+            119
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/034.png"
+        },
+        {
+          "index": 35,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            91,
+            120,
+            113,
+            159
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/035.png"
+        },
+        {
+          "index": 36,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            91,
+            160,
+            113,
+            199
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/036.png"
+        },
+        {
+          "index": 37,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            91,
+            200,
+            113,
+            239
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/037.png"
+        },
+        {
+          "index": 38,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            61,
+            160,
+            83,
+            199
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/038.png"
+        },
+        {
+          "index": 39,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            61,
+            200,
+            83,
+            239
+          ],
+          "width": 40,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02024/039.png"
+        },
+        {
+          "index": 40,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            31,
+            160,
+            57,
+            199
+          ],
+          "width": 40,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02024/040.png"
+        },
+        {
+          "index": 41,
+          "sheet_id": 3024,
+          "rectangle_inclusive_yxyx": [
+            31,
+            200,
+            57,
+            239
+          ],
+          "width": 40,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02024/041.png"
+        }
+      ]
+    },
+    {
+      "id": 2026,
+      "frame_count": 28,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2026,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/super/ripped/cga/frames/02026/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2026,
+          "rectangle_inclusive_yxyx": [
+            99,
+            80,
+            110,
+            103
+          ],
+          "width": 24,
+          "height": 12,
+          "file": "assets/super/ripped/cga/frames/02026/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2026,
+          "rectangle_inclusive_yxyx": [
+            129,
+            0,
+            143,
+            15
+          ],
+          "width": 16,
+          "height": 15,
+          "file": "assets/super/ripped/cga/frames/02026/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2026,
+          "rectangle_inclusive_yxyx": [
+            157,
+            248,
+            168,
+            279
+          ],
+          "width": 32,
+          "height": 12,
+          "file": "assets/super/ripped/cga/frames/02026/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2026,
+          "rectangle_inclusive_yxyx": [
+            113,
+            200,
+            123,
+            223
+          ],
+          "width": 24,
+          "height": 11,
+          "file": "assets/super/ripped/cga/frames/02026/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            1,
+            0,
+            9,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            10,
+            0,
+            18,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            20,
+            0,
+            28,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            31,
+            0,
+            39,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            40,
+            0,
+            48,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            51,
+            0,
+            59,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            61,
+            0,
+            69,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            71,
+            0,
+            79,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            81,
+            0,
+            89,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 3026,
+          "rectangle_inclusive_yxyx": [
+            91,
+            0,
+            99,
+            23
+          ],
+          "width": 24,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02026/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            21,
+            16,
+            43,
+            47
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            21,
+            64,
+            43,
+            95
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            21,
+            112,
+            43,
+            143
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            61,
+            8,
+            83,
+            39
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            61,
+            56,
+            83,
+            87
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            61,
+            104,
+            83,
+            135
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            101,
+            16,
+            123,
+            39
+          ],
+          "width": 24,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/021.png"
+        },
+        {
+          "index": 22,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            101,
+            64,
+            123,
+            87
+          ],
+          "width": 24,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/022.png"
+        },
+        {
+          "index": 23,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            101,
+            112,
+            123,
+            135
+          ],
+          "width": 24,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/023.png"
+        },
+        {
+          "index": 24,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            141,
+            16,
+            163,
+            39
+          ],
+          "width": 24,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/024.png"
+        },
+        {
+          "index": 25,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            141,
+            64,
+            163,
+            87
+          ],
+          "width": 24,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/025.png"
+        },
+        {
+          "index": 26,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            141,
+            112,
+            163,
+            135
+          ],
+          "width": 24,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/026.png"
+        },
+        {
+          "index": 27,
+          "sheet_id": 1002,
+          "rectangle_inclusive_yxyx": [
+            61,
+            152,
+            83,
+            183
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02026/027.png"
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "frame_count": 31,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            49,
+            63
+          ],
+          "width": 64,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02028/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            50,
+            0,
+            99,
+            63
+          ],
+          "width": 64,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02028/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            100,
+            0,
+            149,
+            63
+          ],
+          "width": 64,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02028/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            0,
+            64,
+            49,
+            127
+          ],
+          "width": 64,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02028/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            161,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 39,
+          "file": "assets/super/ripped/cga/frames/02028/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            51,
+            64,
+            72,
+            103
+          ],
+          "width": 40,
+          "height": 22,
+          "file": "assets/super/ripped/cga/frames/02028/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            51,
+            104,
+            72,
+            143
+          ],
+          "width": 40,
+          "height": 22,
+          "file": "assets/super/ripped/cga/frames/02028/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            26,
+            144,
+            47,
+            183
+          ],
+          "width": 40,
+          "height": 22,
+          "file": "assets/super/ripped/cga/frames/02028/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            26,
+            184,
+            47,
+            223
+          ],
+          "width": 40,
+          "height": 22,
+          "file": "assets/super/ripped/cga/frames/02028/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            2,
+            144,
+            23,
+            183
+          ],
+          "width": 40,
+          "height": 22,
+          "file": "assets/super/ripped/cga/frames/02028/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            2,
+            184,
+            23,
+            223
+          ],
+          "width": 40,
+          "height": 22,
+          "file": "assets/super/ripped/cga/frames/02028/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            82,
+            64,
+            106,
+            103
+          ],
+          "width": 40,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02028/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            1,
+            256,
+            11,
+            271
+          ],
+          "width": 16,
+          "height": 11,
+          "file": "assets/super/ripped/cga/frames/02028/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            1,
+            272,
+            9,
+            287
+          ],
+          "width": 16,
+          "height": 9,
+          "file": "assets/super/ripped/cga/frames/02028/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            1,
+            288,
+            10,
+            295
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02028/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            1,
+            296,
+            7,
+            303
+          ],
+          "width": 8,
+          "height": 7,
+          "file": "assets/super/ripped/cga/frames/02028/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            1,
+            304,
+            11,
+            311
+          ],
+          "width": 8,
+          "height": 11,
+          "file": "assets/super/ripped/cga/frames/02028/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            15,
+            256,
+            21,
+            271
+          ],
+          "width": 16,
+          "height": 7,
+          "file": "assets/super/ripped/cga/frames/02028/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            15,
+            272,
+            25,
+            287
+          ],
+          "width": 16,
+          "height": 11,
+          "file": "assets/super/ripped/cga/frames/02028/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            15,
+            288,
+            24,
+            311
+          ],
+          "width": 24,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02028/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            52,
+            144,
+            72,
+            175
+          ],
+          "width": 32,
+          "height": 21,
+          "file": "assets/super/ripped/cga/frames/02028/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            52,
+            176,
+            72,
+            207
+          ],
+          "width": 32,
+          "height": 21,
+          "file": "assets/super/ripped/cga/frames/02028/021.png"
+        },
+        {
+          "index": 22,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            30,
+            256,
+            60,
+            319
+          ],
+          "width": 64,
+          "height": 31,
+          "file": "assets/super/ripped/cga/frames/02028/022.png"
+        },
+        {
+          "index": 23,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            64,
+            248,
+            94,
+            319
+          ],
+          "width": 72,
+          "height": 31,
+          "file": "assets/super/ripped/cga/frames/02028/023.png"
+        },
+        {
+          "index": 24,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            98,
+            272,
+            121,
+            319
+          ],
+          "width": 48,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02028/024.png"
+        },
+        {
+          "index": 25,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            79,
+            64,
+            102,
+            103
+          ],
+          "width": 40,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02028/025.png"
+        },
+        {
+          "index": 26,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            79,
+            104,
+            102,
+            135
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02028/026.png"
+        },
+        {
+          "index": 27,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            79,
+            64,
+            102,
+            87
+          ],
+          "width": 24,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02028/027.png"
+        },
+        {
+          "index": 28,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            79,
+            104,
+            102,
+            119
+          ],
+          "width": 16,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02028/028.png"
+        },
+        {
+          "index": 29,
+          "sheet_id": 2028,
+          "rectangle_inclusive_yxyx": [
+            79,
+            64,
+            102,
+            71
+          ],
+          "width": 8,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02028/029.png"
+        },
+        {
+          "index": 30,
+          "sheet_id": 3028,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            149,
+            127
+          ],
+          "width": 128,
+          "height": 150,
+          "file": "assets/super/ripped/cga/frames/02028/030.png"
+        }
+      ]
+    },
+    {
+      "id": 2030,
+      "frame_count": 68,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2030,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            163,
+            155
+          ],
+          "width": 156,
+          "height": 164,
+          "file": "assets/super/ripped/cga/frames/02030/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2030,
+          "rectangle_inclusive_yxyx": [
+            93,
+            152,
+            163,
+            215
+          ],
+          "width": 64,
+          "height": 71,
+          "file": "assets/super/ripped/cga/frames/02030/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2030,
+          "rectangle_inclusive_yxyx": [
+            0,
+            216,
+            163,
+            319
+          ],
+          "width": 104,
+          "height": 164,
+          "file": "assets/super/ripped/cga/frames/02030/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2030,
+          "rectangle_inclusive_yxyx": [
+            0,
+            152,
+            92,
+            215
+          ],
+          "width": 64,
+          "height": 93,
+          "file": "assets/super/ripped/cga/frames/02030/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2030,
+          "rectangle_inclusive_yxyx": [
+            102,
+            224,
+            151,
+            263
+          ],
+          "width": 40,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02030/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2030,
+          "rectangle_inclusive_yxyx": [
+            112,
+            80,
+            151,
+            119
+          ],
+          "width": 40,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/02030/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            0,
+            25,
+            31
+          ],
+          "width": 32,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02030/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            27,
+            0,
+            51,
+            31
+          ],
+          "width": 32,
+          "height": 25,
+          "file": "assets/super/ripped/cga/frames/02030/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            53,
+            0,
+            75,
+            31
+          ],
+          "width": 32,
+          "height": 23,
+          "file": "assets/super/ripped/cga/frames/02030/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            77,
+            0,
+            96,
+            31
+          ],
+          "width": 32,
+          "height": 20,
+          "file": "assets/super/ripped/cga/frames/02030/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            98,
+            0,
+            114,
+            31
+          ],
+          "width": 32,
+          "height": 17,
+          "file": "assets/super/ripped/cga/frames/02030/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            116,
+            0,
+            125,
+            31
+          ],
+          "width": 32,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            37,
+            32,
+            44,
+            47
+          ],
+          "width": 16,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02030/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            46,
+            32,
+            53,
+            47
+          ],
+          "width": 16,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02030/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            28,
+            32,
+            35,
+            47
+          ],
+          "width": 16,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02030/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            19,
+            32,
+            26,
+            47
+          ],
+          "width": 16,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02030/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            10,
+            32,
+            17,
+            47
+          ],
+          "width": 16,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02030/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            32,
+            8,
+            47
+          ],
+          "width": 16,
+          "height": 8,
+          "file": "assets/super/ripped/cga/frames/02030/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            55,
+            32,
+            64,
+            39
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            66,
+            32,
+            75,
+            39
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            77,
+            32,
+            86,
+            39
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            88,
+            32,
+            97,
+            39
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/021.png"
+        },
+        {
+          "index": 22,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            99,
+            32,
+            108,
+            39
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/022.png"
+        },
+        {
+          "index": 23,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            110,
+            32,
+            119,
+            39
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/023.png"
+        },
+        {
+          "index": 24,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            55,
+            40,
+            64,
+            47
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/024.png"
+        },
+        {
+          "index": 25,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            66,
+            40,
+            75,
+            47
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/025.png"
+        },
+        {
+          "index": 26,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            77,
+            40,
+            86,
+            47
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/026.png"
+        },
+        {
+          "index": 27,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            88,
+            40,
+            97,
+            47
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/027.png"
+        },
+        {
+          "index": 28,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            99,
+            40,
+            108,
+            47
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/028.png"
+        },
+        {
+          "index": 29,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            110,
+            40,
+            119,
+            47
+          ],
+          "width": 8,
+          "height": 10,
+          "file": "assets/super/ripped/cga/frames/02030/029.png"
+        },
+        {
+          "index": 30,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            48,
+            50,
+            87
+          ],
+          "width": 40,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02030/030.png"
+        },
+        {
+          "index": 31,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            52,
+            48,
+            101,
+            87
+          ],
+          "width": 40,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02030/031.png"
+        },
+        {
+          "index": 32,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            52,
+            88,
+            101,
+            127
+          ],
+          "width": 40,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02030/032.png"
+        },
+        {
+          "index": 33,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            88,
+            50,
+            127
+          ],
+          "width": 40,
+          "height": 50,
+          "file": "assets/super/ripped/cga/frames/02030/033.png"
+        },
+        {
+          "index": 34,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            144,
+            28,
+            183
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/02030/034.png"
+        },
+        {
+          "index": 35,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            29,
+            144,
+            56,
+            183
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/02030/035.png"
+        },
+        {
+          "index": 36,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            57,
+            144,
+            84,
+            183
+          ],
+          "width": 40,
+          "height": 28,
+          "file": "assets/super/ripped/cga/frames/02030/036.png"
+        },
+        {
+          "index": 37,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            176,
+            27,
+            215
+          ],
+          "width": 40,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02030/037.png"
+        },
+        {
+          "index": 38,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            29,
+            176,
+            55,
+            215
+          ],
+          "width": 40,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02030/038.png"
+        },
+        {
+          "index": 39,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            57,
+            176,
+            83,
+            215
+          ],
+          "width": 40,
+          "height": 27,
+          "file": "assets/super/ripped/cga/frames/02030/039.png"
+        },
+        {
+          "index": 40,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            216,
+            44,
+            239
+          ],
+          "width": 24,
+          "height": 44,
+          "file": "assets/super/ripped/cga/frames/02030/040.png"
+        },
+        {
+          "index": 41,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            240,
+            44,
+            263
+          ],
+          "width": 24,
+          "height": 44,
+          "file": "assets/super/ripped/cga/frames/02030/041.png"
+        },
+        {
+          "index": 42,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            41,
+            216,
+            73,
+            239
+          ],
+          "width": 24,
+          "height": 33,
+          "file": "assets/super/ripped/cga/frames/02030/042.png"
+        },
+        {
+          "index": 43,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            41,
+            240,
+            73,
+            263
+          ],
+          "width": 24,
+          "height": 33,
+          "file": "assets/super/ripped/cga/frames/02030/043.png"
+        },
+        {
+          "index": 44,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            128,
+            102,
+            132
+          ],
+          "width": 5,
+          "height": 102,
+          "file": "assets/super/ripped/cga/frames/02030/044.png"
+        },
+        {
+          "index": 45,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            1,
+            136,
+            102,
+            140
+          ],
+          "width": 5,
+          "height": 102,
+          "file": "assets/super/ripped/cga/frames/02030/045.png"
+        },
+        {
+          "index": 46,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            78,
+            216,
+            103,
+            255
+          ],
+          "width": 40,
+          "height": 26,
+          "file": "assets/super/ripped/cga/frames/02030/046.png"
+        },
+        {
+          "index": 47,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            85,
+            176,
+            103,
+            183
+          ],
+          "width": 8,
+          "height": 19,
+          "file": "assets/super/ripped/cga/frames/02030/047.png"
+        },
+        {
+          "index": 48,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            85,
+            160,
+            103,
+            167
+          ],
+          "width": 8,
+          "height": 19,
+          "file": "assets/super/ripped/cga/frames/02030/048.png"
+        },
+        {
+          "index": 49,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            85,
+            192,
+            103,
+            199
+          ],
+          "width": 8,
+          "height": 19,
+          "file": "assets/super/ripped/cga/frames/02030/049.png"
+        },
+        {
+          "index": 50,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            85,
+            144,
+            103,
+            151
+          ],
+          "width": 8,
+          "height": 19,
+          "file": "assets/super/ripped/cga/frames/02030/050.png"
+        },
+        {
+          "index": 51,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            135,
+            112,
+            174,
+            151
+          ],
+          "width": 40,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/02030/051.png"
+        },
+        {
+          "index": 52,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            135,
+            152,
+            174,
+            191
+          ],
+          "width": 40,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/02030/052.png"
+        },
+        {
+          "index": 53,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            135,
+            152,
+            174,
+            191
+          ],
+          "width": 40,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/02030/053.png"
+        },
+        {
+          "index": 54,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            135,
+            192,
+            174,
+            231
+          ],
+          "width": 40,
+          "height": 40,
+          "file": "assets/super/ripped/cga/frames/02030/054.png"
+        },
+        {
+          "index": 55,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            175,
+            128,
+            194,
+            183
+          ],
+          "width": 56,
+          "height": 20,
+          "file": "assets/super/ripped/cga/frames/02030/055.png"
+        },
+        {
+          "index": 56,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            175,
+            128,
+            194,
+            183
+          ],
+          "width": 56,
+          "height": 20,
+          "file": "assets/super/ripped/cga/frames/02030/056.png"
+        },
+        {
+          "index": 57,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            135,
+            232,
+            158,
+            263
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/057.png"
+        },
+        {
+          "index": 58,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            159,
+            232,
+            182,
+            263
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/058.png"
+        },
+        {
+          "index": 59,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            133,
+            0,
+            194,
+            55
+          ],
+          "width": 56,
+          "height": 62,
+          "file": "assets/super/ripped/cga/frames/02030/059.png"
+        },
+        {
+          "index": 60,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            133,
+            56,
+            194,
+            111
+          ],
+          "width": 56,
+          "height": 62,
+          "file": "assets/super/ripped/cga/frames/02030/060.png"
+        },
+        {
+          "index": 61,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            109,
+            56,
+            132,
+            87
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/061.png"
+        },
+        {
+          "index": 62,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            109,
+            88,
+            132,
+            119
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/062.png"
+        },
+        {
+          "index": 63,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            109,
+            120,
+            132,
+            151
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/063.png"
+        },
+        {
+          "index": 64,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            109,
+            152,
+            132,
+            183
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/064.png"
+        },
+        {
+          "index": 65,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            109,
+            184,
+            132,
+            215
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/065.png"
+        },
+        {
+          "index": 66,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            109,
+            216,
+            132,
+            247
+          ],
+          "width": 32,
+          "height": 24,
+          "file": "assets/super/ripped/cga/frames/02030/066.png"
+        },
+        {
+          "index": 67,
+          "sheet_id": 3030,
+          "rectangle_inclusive_yxyx": [
+            175,
+            184,
+            194,
+            231
+          ],
+          "width": 48,
+          "height": 20,
+          "file": "assets/super/ripped/cga/frames/02030/067.png"
+        }
+      ]
+    },
+    {
+      "id": 6002,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6002,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/super/ripped/cga/frames/06002/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6004,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6004,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/super/ripped/cga/frames/06004/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6008,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6008,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/super/ripped/cga/frames/06008/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6010,
+      "frame_count": 2,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6010,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            13,
+            15
+          ],
+          "width": 16,
+          "height": 14,
+          "file": "assets/super/ripped/cga/frames/06010/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 6010,
+          "rectangle_inclusive_yxyx": [
+            0,
+            16,
+            13,
+            31
+          ],
+          "width": 16,
+          "height": 14,
+          "file": "assets/super/ripped/cga/frames/06010/001.png"
+        }
+      ]
+    },
+    {
+      "id": 6050,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6050,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            319,
+            199
+          ],
+          "width": 200,
+          "height": 320,
+          "file": "assets/super/ripped/cga/frames/06050/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6052,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6052,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            319,
+            199
+          ],
+          "width": 200,
+          "height": 320,
+          "file": "assets/super/ripped/cga/frames/06052/000.png"
+        }
+      ]
+    }
+  ],
+  "contact_sheet": "assets/super/ripped/cga/contact-sheet.png"
+}

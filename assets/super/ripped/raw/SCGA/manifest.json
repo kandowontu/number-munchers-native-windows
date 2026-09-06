@@ -1,0 +1,359 @@
+{
+  "source": "C:\\Users\\kando\\Documents\\ChatGPT\\number munchers native windows port\\tmp\\super-munchers-source\\super-munchers-the-challenge-continues\\smunch\\SCGA.RES",
+  "source_size": 101331,
+  "source_sha256": "6aa3ce8a0ab116b3b953e23b35bb8ea16e2231dbfccb356924837e671cff4388",
+  "data_offset": 692,
+  "type_count": 2,
+  "types": [
+    {
+      "tag": "BTMP",
+      "entry_count": 19,
+      "table_offset": 20,
+      "entries": [
+        {
+          "id": 1000,
+          "offset": 692,
+          "size": 228,
+          "flags": 0,
+          "sha256": "51d8cb7e92290e30db3aae4ebf609c9fdebf16c3b02e4638e7244dd2cc16bd9a",
+          "file": "BTMP/01000.btmp"
+        },
+        {
+          "id": 1001,
+          "offset": 920,
+          "size": 192,
+          "flags": 0,
+          "sha256": "61cdd79313c5ea1040b4e99dbcb05c2379d258a8feb042c3d954276af02d7be4",
+          "file": "BTMP/01001.btmp"
+        },
+        {
+          "id": 1002,
+          "offset": 1112,
+          "size": 192,
+          "flags": 0,
+          "sha256": "903214ccf01a5fe3269d47de5dd2a8fe2b4a42a90d2450e0e5b3a8aded181cd2",
+          "file": "BTMP/01002.btmp"
+        },
+        {
+          "id": 1003,
+          "offset": 1304,
+          "size": 192,
+          "flags": 0,
+          "sha256": "626d7cb5067b94674f1f84eddeaa44370de9bd4160cf5dc9deb98fe2c60fb21e",
+          "file": "BTMP/01003.btmp"
+        },
+        {
+          "id": 1004,
+          "offset": 1496,
+          "size": 192,
+          "flags": 0,
+          "sha256": "a6070a19e3f8935a6461bc66ebc9214cd6099e57f6f7c387466e9523c78fc75c",
+          "file": "BTMP/01004.btmp"
+        },
+        {
+          "id": 1005,
+          "offset": 1688,
+          "size": 192,
+          "flags": 0,
+          "sha256": "9b61ad3de25e0a1506a7a22af9ed4566f0d85c55d94b104809b53930b4390bab",
+          "file": "BTMP/01005.btmp"
+        },
+        {
+          "id": 1012,
+          "offset": 1880,
+          "size": 228,
+          "flags": 0,
+          "sha256": "cf232ac770ed2b0e89d6552946947dc9f38fa6d2c972f60436f71692e205b240",
+          "file": "BTMP/01012.btmp"
+        },
+        {
+          "id": 1020,
+          "offset": 2108,
+          "size": 144,
+          "flags": 0,
+          "sha256": "cb09973200131fd575ae5b87283af80a6b3d1271eb1cf4f53a492599f0e130f4",
+          "file": "BTMP/01020.btmp"
+        },
+        {
+          "id": 2022,
+          "offset": 2252,
+          "size": 360,
+          "flags": 0,
+          "sha256": "ad6e11e55bd84897c4d5042f1b48455d1a01f2134e87716fdbd5f9f41bc93e8b",
+          "file": "BTMP/02022.btmp"
+        },
+        {
+          "id": 2024,
+          "offset": 2612,
+          "size": 504,
+          "flags": 0,
+          "sha256": "1e35cc9d450c2f7e50c7fdadea215ef5a19c47a7681464ed7b64b6d2c6d49ebf",
+          "file": "BTMP/02024.btmp"
+        },
+        {
+          "id": 2026,
+          "offset": 3116,
+          "size": 336,
+          "flags": 0,
+          "sha256": "cc5fad2ae204f5da90617a8cac683afdc70962df5fae79f81251aa467edd6d43",
+          "file": "BTMP/02026.btmp"
+        },
+        {
+          "id": 2028,
+          "offset": 3452,
+          "size": 372,
+          "flags": 0,
+          "sha256": "f2a159b577b4ca427e20070b536bce6ecae8b67ee765adace08029f8ad0c3e09",
+          "file": "BTMP/02028.btmp"
+        },
+        {
+          "id": 2030,
+          "offset": 3824,
+          "size": 816,
+          "flags": 0,
+          "sha256": "e4faf6d4b5312292a397da02d8c4ba7a4803dab40afd39691c1e150011f4f4d2",
+          "file": "BTMP/02030.btmp"
+        },
+        {
+          "id": 6002,
+          "offset": 4640,
+          "size": 12,
+          "flags": 0,
+          "sha256": "f33adb531ccae79f59ecc983bdb3f351c6c7d814e1a68cb503f1e7ca6f0cdf1c",
+          "file": "BTMP/06002.btmp"
+        },
+        {
+          "id": 6004,
+          "offset": 4652,
+          "size": 12,
+          "flags": 0,
+          "sha256": "d8a56e61cf920b4126800fdaf26f01b40e1d76194eeeb40e7864f8dab613845a",
+          "file": "BTMP/06004.btmp"
+        },
+        {
+          "id": 6008,
+          "offset": 4664,
+          "size": 12,
+          "flags": 0,
+          "sha256": "a1df1e859a3aea4b127b62f72812f2beaa3e61d573c7c4a903850a8d4655b611",
+          "file": "BTMP/06008.btmp"
+        },
+        {
+          "id": 6010,
+          "offset": 4676,
+          "size": 24,
+          "flags": 0,
+          "sha256": "0ddb4a5a4a5adacc1bc4e39f809239b1cbe7c88943ca94fb827b9729f377ae31",
+          "file": "BTMP/06010.btmp"
+        },
+        {
+          "id": 6050,
+          "offset": 4700,
+          "size": 12,
+          "flags": 0,
+          "sha256": "dd2e4b26a3a89c7c3356363c10ecc945b3917820f582d03ddc33b5d3f3b48300",
+          "file": "BTMP/06050.btmp"
+        },
+        {
+          "id": 6052,
+          "offset": 4712,
+          "size": 12,
+          "flags": 0,
+          "sha256": "95412908079c2a718e8f6ccf6dc09bb7fe83babbe29a4bf7f6035545dd25d4a8",
+          "file": "BTMP/06052.btmp"
+        }
+      ]
+    },
+    {
+      "tag": "PCXF",
+      "entry_count": 23,
+      "table_offset": 324,
+      "entries": [
+        {
+          "id": 1000,
+          "offset": 4724,
+          "size": 2097,
+          "flags": 0,
+          "sha256": "23cbdb02567e5c2063ed6c33adef1c813e95d9c8e86f0a315a549c6358f6cde6",
+          "file": "PCXF/01000.pcx"
+        },
+        {
+          "id": 1001,
+          "offset": 6821,
+          "size": 2640,
+          "flags": 0,
+          "sha256": "c3f617508b484498d774da7517eb2b359e1c1176aae86dcd7d1fd750aa493126",
+          "file": "PCXF/01001.pcx"
+        },
+        {
+          "id": 1002,
+          "offset": 9461,
+          "size": 2685,
+          "flags": 0,
+          "sha256": "86bdcb2f27890d14f516d57521ea4f3e02b7e0f68a913e2a915721c7100e5809",
+          "file": "PCXF/01002.pcx"
+        },
+        {
+          "id": 1003,
+          "offset": 12146,
+          "size": 2689,
+          "flags": 0,
+          "sha256": "04ecfd9d6a02909dd8271cb5d3cb51cdb76426243f46cbafafb6f6015182154a",
+          "file": "PCXF/01003.pcx"
+        },
+        {
+          "id": 1004,
+          "offset": 14835,
+          "size": 2399,
+          "flags": 0,
+          "sha256": "173bfa90f5dc7e260d36f6893d76a0d21e41ec6ddd6f625886bed19dc9d20906",
+          "file": "PCXF/01004.pcx"
+        },
+        {
+          "id": 1005,
+          "offset": 17234,
+          "size": 2367,
+          "flags": 0,
+          "sha256": "618e2e12a2b209ad0862900a136f683e3136f4a30f396145b6287dd750e4eee3",
+          "file": "PCXF/01005.pcx"
+        },
+        {
+          "id": 1012,
+          "offset": 19601,
+          "size": 2539,
+          "flags": 0,
+          "sha256": "206e4fb515ce3bb1858e35071e63fd8a242f87cfb00bbe731feed513e9d1633d",
+          "file": "PCXF/01012.pcx"
+        },
+        {
+          "id": 1020,
+          "offset": 22140,
+          "size": 1249,
+          "flags": 0,
+          "sha256": "2711991492aa34c7138b35641d07ec16e699e9b1adb276846084455f87a2a60c",
+          "file": "PCXF/01020.pcx"
+        },
+        {
+          "id": 2022,
+          "offset": 23389,
+          "size": 9810,
+          "flags": 0,
+          "sha256": "dbb19e56a6567758fcbebf7183b36d515c368e31fa014d5c5651479c083a0a47",
+          "file": "PCXF/02022.pcx"
+        },
+        {
+          "id": 2026,
+          "offset": 33199,
+          "size": 10472,
+          "flags": 0,
+          "sha256": "6e114390f4e54ac1c0f7075e29e2d34531f373fcf5b40880f5c45e4de68c0aa7",
+          "file": "PCXF/02026.pcx"
+        },
+        {
+          "id": 2028,
+          "offset": 43671,
+          "size": 8413,
+          "flags": 0,
+          "sha256": "2e1d38aed05f292101dfb8092c17b3894c23624585969f485d8bdbe99aaa5dea",
+          "file": "PCXF/02028.pcx"
+        },
+        {
+          "id": 2030,
+          "offset": 52084,
+          "size": 6663,
+          "flags": 0,
+          "sha256": "26eeff95a9c5df8e8406c55e4006dfb0e6ebd8daa628a0052fdb22992f9162b7",
+          "file": "PCXF/02030.pcx"
+        },
+        {
+          "id": 3022,
+          "offset": 58747,
+          "size": 2800,
+          "flags": 0,
+          "sha256": "f6f8074e8cf6a4912254b801bdbdceb92b380eabe20f89da0e0716a2353651a3",
+          "file": "PCXF/03022.pcx"
+        },
+        {
+          "id": 3024,
+          "offset": 61547,
+          "size": 5964,
+          "flags": 0,
+          "sha256": "80f84ee83a96da49acf360291eaf736e16be17dd8f89bfa3e7744eb38de1625b",
+          "file": "PCXF/03024.pcx"
+        },
+        {
+          "id": 3026,
+          "offset": 67511,
+          "size": 675,
+          "flags": 0,
+          "sha256": "6a7bf855ddd2954e1a140d418c2e82835b6216972fab1bebaf117df60f39b8ee",
+          "file": "PCXF/03026.pcx"
+        },
+        {
+          "id": 3028,
+          "offset": 68186,
+          "size": 2783,
+          "flags": 0,
+          "sha256": "d04691b25fe45c14a6bdfc2bd2c1013cfc16ea3a0e758a31fc714aba457de469",
+          "file": "PCXF/03028.pcx"
+        },
+        {
+          "id": 3030,
+          "offset": 70969,
+          "size": 9312,
+          "flags": 0,
+          "sha256": "c37abada3b5bcd7d44acece8dd7fc005e306a96aaee585714d7e5d950431a189",
+          "file": "PCXF/03030.pcx"
+        },
+        {
+          "id": 6002,
+          "offset": 80281,
+          "size": 6532,
+          "flags": 0,
+          "sha256": "2da6e84959dd68f8e4afcf1b9bf0ed66ffe3f9cb4b5c0b4f61e4d51436d653e2",
+          "file": "PCXF/06002.pcx"
+        },
+        {
+          "id": 6004,
+          "offset": 86813,
+          "size": 7492,
+          "flags": 0,
+          "sha256": "e2e74b90a5154c92997e279087440ffd375e40b1be2022add73bba2c30cdc5ce",
+          "file": "PCXF/06004.pcx"
+        },
+        {
+          "id": 6008,
+          "offset": 94305,
+          "size": 4832,
+          "flags": 0,
+          "sha256": "da9f443bcf154d8f454152dbc52fb2ea5c4a528c98a8569f835db63d7c9d1fcb",
+          "file": "PCXF/06008.pcx"
+        },
+        {
+          "id": 6010,
+          "offset": 99137,
+          "size": 338,
+          "flags": 0,
+          "sha256": "e05346fcc02e25537d8a2e12d4f82cf8abcfd3bf816680806000fdfafbc86406",
+          "file": "PCXF/06010.pcx"
+        },
+        {
+          "id": 6050,
+          "offset": 99475,
+          "size": 928,
+          "flags": 0,
+          "sha256": "b3a97ef011bc3c0902ce86f2ebe31e15a2aec240a43a0d23b0c68f48bbae5717",
+          "file": "PCXF/06050.pcx"
+        },
+        {
+          "id": 6052,
+          "offset": 100403,
+          "size": 928,
+          "flags": 0,
+          "sha256": "804cfe66f3ea293952d93ece964f0be5e51a2e2a78f23739e0ea2019c11577c2",
+          "file": "PCXF/06052.pcx"
+        }
+      ]
+    }
+  ]
+}

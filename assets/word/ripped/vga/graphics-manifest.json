@@ -1,0 +1,3243 @@
+{
+  "sheets": [
+    {
+      "id": 1006,
+      "width": 211,
+      "height": 179,
+      "file": "assets/word/ripped/vga/sheets/01006.png"
+    },
+    {
+      "id": 1007,
+      "width": 209,
+      "height": 187,
+      "file": "assets/word/ripped/vga/sheets/01007.png"
+    },
+    {
+      "id": 1008,
+      "width": 207,
+      "height": 186,
+      "file": "assets/word/ripped/vga/sheets/01008.png"
+    },
+    {
+      "id": 1009,
+      "width": 211,
+      "height": 187,
+      "file": "assets/word/ripped/vga/sheets/01009.png"
+    },
+    {
+      "id": 1010,
+      "width": 160,
+      "height": 187,
+      "file": "assets/word/ripped/vga/sheets/01010.png"
+    },
+    {
+      "id": 1011,
+      "width": 210,
+      "height": 189,
+      "file": "assets/word/ripped/vga/sheets/01011.png"
+    },
+    {
+      "id": 2001,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/02001.png"
+    },
+    {
+      "id": 2003,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/02003.png"
+    },
+    {
+      "id": 2005,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/02005.png"
+    },
+    {
+      "id": 2007,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/02007.png"
+    },
+    {
+      "id": 2009,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/02009.png"
+    },
+    {
+      "id": 2011,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/02011.png"
+    },
+    {
+      "id": 3003,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/03003.png"
+    },
+    {
+      "id": 3005,
+      "width": 320,
+      "height": 177,
+      "file": "assets/word/ripped/vga/sheets/03005.png"
+    },
+    {
+      "id": 6001,
+      "width": 213,
+      "height": 163,
+      "file": "assets/word/ripped/vga/sheets/06001.png"
+    },
+    {
+      "id": 6003,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/06003.png"
+    },
+    {
+      "id": 6005,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/06005.png"
+    },
+    {
+      "id": 6009,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/06009.png"
+    },
+    {
+      "id": 6051,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/06051.png"
+    },
+    {
+      "id": 6053,
+      "width": 320,
+      "height": 200,
+      "file": "assets/word/ripped/vga/sheets/06053.png"
+    }
+  ],
+  "animations": [
+    {
+      "id": 1006,
+      "frame_count": 19,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            96,
+            152
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01006/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            96,
+            56
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01006/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            96,
+            104
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01006/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            97,
+            156,
+            126,
+            200
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            97,
+            156,
+            126,
+            200
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            126,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            46,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            46,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            126,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            126,
+            56
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            126,
+            104
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            137,
+            132,
+            166,
+            176
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            137,
+            132,
+            166,
+            176
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            46,
+            152
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01006/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            140,
+            96,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/word/ripped/vga/frames/01006/016.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 17,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            140,
+            16,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/word/ripped/vga/frames/01006/017.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 18,
+          "sheet_id": 1006,
+          "rectangle_inclusive_yxyx": [
+            140,
+            56,
+            0,
+            0
+          ],
+          "width": 36,
+          "height": 39,
+          "file": "assets/word/ripped/vga/frames/01006/018.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01007/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01007/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01007/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1007,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01007/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01008/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01008/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01008/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1008,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01008/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01009/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            137,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01009/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01009/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            17,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            57,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1009,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01009/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1010,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            97,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01010/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            97,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01010/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            97,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01010/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            17,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            17,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            17,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            57,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            57,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            57,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            137,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1010,
+          "rectangle_inclusive_yxyx": [
+            137,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01010/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 1011,
+      "frame_count": 16,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            136,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01011/000.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 1,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            136,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01011/001.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 2,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            136,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/01011/002.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 3,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            56,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/003.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 4,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            56,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/004.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 5,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            56,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/005.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 6,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            96,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/006.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 7,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            96,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/007.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 8,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            96,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/008.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 9,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            16,
+            12,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/009.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 10,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            16,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/010.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 11,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            16,
+            108,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/011.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 12,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            56,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/012.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 13,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            16,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/013.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 14,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            56,
+            156,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/014.png",
+          "derived_from_origin_sentinel": true
+        },
+        {
+          "index": 15,
+          "sheet_id": 1011,
+          "rectangle_inclusive_yxyx": [
+            96,
+            60,
+            0,
+            0
+          ],
+          "width": 45,
+          "height": 30,
+          "file": "assets/word/ripped/vga/frames/01011/015.png",
+          "derived_from_origin_sentinel": true
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "frame_count": 15,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            40,
+            108
+          ],
+          "width": 109,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            40,
+            84
+          ],
+          "width": 85,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            20,
+            40,
+            96
+          ],
+          "width": 77,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            108,
+            40,
+            160
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            160,
+            40,
+            212
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            212,
+            40,
+            264
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            0,
+            264,
+            40,
+            316
+          ],
+          "width": 53,
+          "height": 41,
+          "file": "assets/word/ripped/vga/frames/02001/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            145,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 55,
+          "file": "assets/word/ripped/vga/frames/02001/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            45,
+            137,
+            113,
+            157
+          ],
+          "width": 21,
+          "height": 69,
+          "file": "assets/word/ripped/vga/frames/02001/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            45,
+            137,
+            113,
+            177
+          ],
+          "width": 41,
+          "height": 69,
+          "file": "assets/word/ripped/vga/frames/02001/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            45,
+            137,
+            113,
+            319
+          ],
+          "width": 183,
+          "height": 69,
+          "file": "assets/word/ripped/vga/frames/02001/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            51,
+            0,
+            86,
+            128
+          ],
+          "width": 129,
+          "height": 36,
+          "file": "assets/word/ripped/vga/frames/02001/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            119,
+            161,
+            143,
+            224
+          ],
+          "width": 64,
+          "height": 25,
+          "file": "assets/word/ripped/vga/frames/02001/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            119,
+            232,
+            143,
+            296
+          ],
+          "width": 65,
+          "height": 25,
+          "file": "assets/word/ripped/vga/frames/02001/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2001,
+          "rectangle_inclusive_yxyx": [
+            102,
+            3,
+            141,
+            144
+          ],
+          "width": 142,
+          "height": 40,
+          "file": "assets/word/ripped/vga/frames/02001/014.png"
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "frame_count": 17,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            146,
+            0,
+            199,
+            48
+          ],
+          "width": 49,
+          "height": 54,
+          "file": "assets/word/ripped/vga/frames/02003/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            178,
+            48,
+            199,
+            319
+          ],
+          "width": 272,
+          "height": 22,
+          "file": "assets/word/ripped/vga/frames/02003/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            55,
+            319
+          ],
+          "width": 320,
+          "height": 56,
+          "file": "assets/word/ripped/vga/frames/02003/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            63,
+            4,
+            85,
+            32
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            63,
+            36,
+            85,
+            64
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            63,
+            68,
+            85,
+            96
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            63,
+            100,
+            85,
+            128
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            63,
+            132,
+            85,
+            160
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            63,
+            132,
+            85,
+            148
+          ],
+          "width": 17,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            102,
+            92,
+            176,
+            319
+          ],
+          "width": 228,
+          "height": 75,
+          "file": "assets/word/ripped/vga/frames/02003/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            96,
+            4,
+            118,
+            24
+          ],
+          "width": 21,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            96,
+            28,
+            118,
+            48
+          ],
+          "width": 21,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2003,
+          "rectangle_inclusive_yxyx": [
+            96,
+            52,
+            118,
+            72
+          ],
+          "width": 21,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02003/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 3003,
+          "rectangle_inclusive_yxyx": [
+            2,
+            232,
+            50,
+            319
+          ],
+          "width": 88,
+          "height": 49,
+          "file": "assets/word/ripped/vga/frames/02003/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 3003,
+          "rectangle_inclusive_yxyx": [
+            53,
+            232,
+            101,
+            319
+          ],
+          "width": 88,
+          "height": 49,
+          "file": "assets/word/ripped/vga/frames/02003/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 3003,
+          "rectangle_inclusive_yxyx": [
+            4,
+            0,
+            78,
+            56
+          ],
+          "width": 57,
+          "height": 75,
+          "file": "assets/word/ripped/vga/frames/02003/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 3003,
+          "rectangle_inclusive_yxyx": [
+            4,
+            36,
+            78,
+            228
+          ],
+          "width": 193,
+          "height": 75,
+          "file": "assets/word/ripped/vga/frames/02003/016.png"
+        }
+      ]
+    },
+    {
+      "id": 2005,
+      "frame_count": 22,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            91,
+            160
+          ],
+          "width": 161,
+          "height": 92,
+          "file": "assets/word/ripped/vga/frames/02005/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            92,
+            0,
+            199,
+            112
+          ],
+          "width": 113,
+          "height": 108,
+          "file": "assets/word/ripped/vga/frames/02005/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            0,
+            160,
+            34,
+            319
+          ],
+          "width": 160,
+          "height": 35,
+          "file": "assets/word/ripped/vga/frames/02005/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            252,
+            176,
+            258
+          ],
+          "width": 7,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            270,
+            176,
+            286
+          ],
+          "width": 17,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            236,
+            176,
+            258
+          ],
+          "width": 23,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            264,
+            176,
+            286
+          ],
+          "width": 23,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            291,
+            176,
+            312
+          ],
+          "width": 22,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            177,
+            246,
+            199,
+            254
+          ],
+          "width": 9,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            177,
+            269,
+            199,
+            285
+          ],
+          "width": 17,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            177,
+            229,
+            199,
+            254
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            177,
+            260,
+            199,
+            285
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            195,
+            176,
+            220
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            177,
+            195,
+            199,
+            220
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            177,
+            291,
+            199,
+            316
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            166,
+            176,
+            191
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02005/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            154,
+            134,
+            179,
+            158
+          ],
+          "width": 25,
+          "height": 26,
+          "file": "assets/word/ripped/vga/frames/02005/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            181,
+            156,
+            199,
+            188
+          ],
+          "width": 33,
+          "height": 19,
+          "file": "assets/word/ripped/vga/frames/02005/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            140,
+            172,
+            148,
+            200
+          ],
+          "width": 29,
+          "height": 9,
+          "file": "assets/word/ripped/vga/frames/02005/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 2005,
+          "rectangle_inclusive_yxyx": [
+            50,
+            200,
+            148,
+            319
+          ],
+          "width": 120,
+          "height": 99,
+          "file": "assets/word/ripped/vga/frames/02005/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 3005,
+          "rectangle_inclusive_yxyx": [
+            0,
+            1,
+            160,
+            149
+          ],
+          "width": 149,
+          "height": 161,
+          "file": "assets/word/ripped/vga/frames/02005/020.png"
+        },
+        {
+          "index": 21,
+          "sheet_id": 3005,
+          "rectangle_inclusive_yxyx": [
+            0,
+            172,
+            160,
+            319
+          ],
+          "width": 148,
+          "height": 161,
+          "file": "assets/word/ripped/vga/frames/02005/021.png"
+        }
+      ]
+    },
+    {
+      "id": 2007,
+      "frame_count": 11,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            47,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 153,
+          "file": "assets/word/ripped/vga/frames/02007/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            28,
+            252,
+            43,
+            308
+          ],
+          "width": 57,
+          "height": 16,
+          "file": "assets/word/ripped/vga/frames/02007/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            4,
+            252,
+            19,
+            306
+          ],
+          "width": 55,
+          "height": 16,
+          "file": "assets/word/ripped/vga/frames/02007/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            12,
+            28,
+            35,
+            64
+          ],
+          "width": 37,
+          "height": 24,
+          "file": "assets/word/ripped/vga/frames/02007/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            48,
+            92,
+            71,
+            128
+          ],
+          "width": 37,
+          "height": 24,
+          "file": "assets/word/ripped/vga/frames/02007/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            6,
+            128,
+            32,
+            176
+          ],
+          "width": 49,
+          "height": 27,
+          "file": "assets/word/ripped/vga/frames/02007/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            8,
+            210,
+            12,
+            222
+          ],
+          "width": 13,
+          "height": 5,
+          "file": "assets/word/ripped/vga/frames/02007/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            19,
+            210,
+            23,
+            222
+          ],
+          "width": 13,
+          "height": 5,
+          "file": "assets/word/ripped/vga/frames/02007/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            88,
+            192,
+            93,
+            204
+          ],
+          "width": 13,
+          "height": 6,
+          "file": "assets/word/ripped/vga/frames/02007/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            30,
+            186,
+            39,
+            211
+          ],
+          "width": 26,
+          "height": 10,
+          "file": "assets/word/ripped/vga/frames/02007/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2007,
+          "rectangle_inclusive_yxyx": [
+            30,
+            218,
+            39,
+            243
+          ],
+          "width": 26,
+          "height": 10,
+          "file": "assets/word/ripped/vga/frames/02007/010.png"
+        }
+      ]
+    },
+    {
+      "id": 2009,
+      "frame_count": 15,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            55,
+            0,
+            199,
+            104
+          ],
+          "width": 105,
+          "height": 145,
+          "file": "assets/word/ripped/vga/frames/02009/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            152,
+            104,
+            199,
+            319
+          ],
+          "width": 216,
+          "height": 48,
+          "file": "assets/word/ripped/vga/frames/02009/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            87,
+            212,
+            122,
+            319
+          ],
+          "width": 108,
+          "height": 36,
+          "file": "assets/word/ripped/vga/frames/02009/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            9,
+            40,
+            53,
+            104
+          ],
+          "width": 65,
+          "height": 45,
+          "file": "assets/word/ripped/vga/frames/02009/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            126,
+            233,
+            149,
+            254
+          ],
+          "width": 22,
+          "height": 24,
+          "file": "assets/word/ripped/vga/frames/02009/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            126,
+            293,
+            149,
+            314
+          ],
+          "width": 22,
+          "height": 24,
+          "file": "assets/word/ripped/vga/frames/02009/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            126,
+            202,
+            149,
+            224
+          ],
+          "width": 23,
+          "height": 24,
+          "file": "assets/word/ripped/vga/frames/02009/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            39,
+            199,
+            84,
+            314
+          ],
+          "width": 116,
+          "height": 46,
+          "file": "assets/word/ripped/vga/frames/02009/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            10,
+            128,
+            32,
+            153
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02009/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            10,
+            166,
+            32,
+            191
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02009/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            10,
+            210,
+            32,
+            235
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02009/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            39,
+            165,
+            61,
+            190
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02009/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            39,
+            131,
+            61,
+            156
+          ],
+          "width": 26,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02009/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            21,
+            292,
+            24,
+            306
+          ],
+          "width": 15,
+          "height": 4,
+          "file": "assets/word/ripped/vga/frames/02009/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2009,
+          "rectangle_inclusive_yxyx": [
+            0,
+            32,
+            53,
+            104
+          ],
+          "width": 73,
+          "height": 54,
+          "file": "assets/word/ripped/vga/frames/02009/014.png"
+        }
+      ]
+    },
+    {
+      "id": 2011,
+      "frame_count": 21,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            126,
+            260,
+            148,
+            284
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            126,
+            236,
+            148,
+            260
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            126,
+            212,
+            148,
+            236
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            103,
+            248,
+            125,
+            272
+          ],
+          "width": 25,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            103,
+            220,
+            125,
+            248
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            80,
+            236,
+            102,
+            264
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            33,
+            284,
+            149,
+            319
+          ],
+          "width": 36,
+          "height": 117,
+          "file": "assets/word/ripped/vga/frames/02011/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            10,
+            288,
+            32,
+            316
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            10,
+            236,
+            32,
+            263
+          ],
+          "width": 28,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            10,
+            200,
+            32,
+            227
+          ],
+          "width": 28,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            14,
+            107,
+            36,
+            156
+          ],
+          "width": 50,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/02011/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            42,
+            104,
+            65,
+            153
+          ],
+          "width": 50,
+          "height": 24,
+          "file": "assets/word/ripped/vga/frames/02011/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            76,
+            88,
+            104,
+            124
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/vga/frames/02011/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            64,
+            88,
+            92,
+            124
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/vga/frames/02011/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            76,
+            128,
+            104,
+            164
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/vga/frames/02011/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            64,
+            128,
+            92,
+            164
+          ],
+          "width": 37,
+          "height": 29,
+          "file": "assets/word/ripped/vga/frames/02011/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            85,
+            20,
+            111,
+            56
+          ],
+          "width": 37,
+          "height": 27,
+          "file": "assets/word/ripped/vga/frames/02011/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            126,
+            12,
+            194,
+            92
+          ],
+          "width": 81,
+          "height": 69,
+          "file": "assets/word/ripped/vga/frames/02011/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            118,
+            72,
+            144,
+            108
+          ],
+          "width": 37,
+          "height": 27,
+          "file": "assets/word/ripped/vga/frames/02011/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            163,
+            112,
+            194,
+            144
+          ],
+          "width": 33,
+          "height": 32,
+          "file": "assets/word/ripped/vga/frames/02011/019.png"
+        },
+        {
+          "index": 20,
+          "sheet_id": 2011,
+          "rectangle_inclusive_yxyx": [
+            163,
+            12,
+            194,
+            44
+          ],
+          "width": 33,
+          "height": 32,
+          "file": "assets/word/ripped/vga/frames/02011/020.png"
+        }
+      ]
+    },
+    {
+      "id": 6001,
+      "frame_count": 20,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            100,
+            0,
+            122,
+            46
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/000.png"
+        },
+        {
+          "index": 1,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            1,
+            151,
+            23,
+            197
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/001.png"
+        },
+        {
+          "index": 2,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            34,
+            116,
+            56,
+            162
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/002.png"
+        },
+        {
+          "index": 3,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            100,
+            94,
+            122,
+            140
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/003.png"
+        },
+        {
+          "index": 4,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            98,
+            47,
+            120,
+            93
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/004.png"
+        },
+        {
+          "index": 5,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            36,
+            65,
+            58,
+            111
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/005.png"
+        },
+        {
+          "index": 6,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            65,
+            104,
+            87,
+            150
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/006.png"
+        },
+        {
+          "index": 7,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            3,
+            7,
+            25,
+            53
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/007.png"
+        },
+        {
+          "index": 8,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            3,
+            101,
+            25,
+            147
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/008.png"
+        },
+        {
+          "index": 9,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            3,
+            55,
+            25,
+            101
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/009.png"
+        },
+        {
+          "index": 10,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            67,
+            164,
+            89,
+            192
+          ],
+          "width": 29,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/010.png"
+        },
+        {
+          "index": 11,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            66,
+            51,
+            88,
+            97
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/011.png"
+        },
+        {
+          "index": 12,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            127,
+            159,
+            149,
+            205
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/012.png"
+        },
+        {
+          "index": 13,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            99,
+            153,
+            121,
+            199
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/013.png"
+        },
+        {
+          "index": 14,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            131,
+            50,
+            153,
+            96
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/014.png"
+        },
+        {
+          "index": 15,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            36,
+            6,
+            58,
+            52
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/015.png"
+        },
+        {
+          "index": 16,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            34,
+            162,
+            56,
+            208
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/016.png"
+        },
+        {
+          "index": 17,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            126,
+            1,
+            148,
+            47
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/017.png"
+        },
+        {
+          "index": 18,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            128,
+            110,
+            140,
+            156
+          ],
+          "width": 47,
+          "height": 13,
+          "file": "assets/word/ripped/vga/frames/06001/018.png"
+        },
+        {
+          "index": 19,
+          "sheet_id": 6001,
+          "rectangle_inclusive_yxyx": [
+            66,
+            0,
+            88,
+            46
+          ],
+          "width": 47,
+          "height": 23,
+          "file": "assets/word/ripped/vga/frames/06001/019.png"
+        }
+      ]
+    },
+    {
+      "id": 6003,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6003,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/word/ripped/vga/frames/06003/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6005,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6005,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/word/ripped/vga/frames/06005/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6009,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6009,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            199,
+            319
+          ],
+          "width": 320,
+          "height": 200,
+          "file": "assets/word/ripped/vga/frames/06009/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6051,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6051,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            319,
+            199
+          ],
+          "width": 200,
+          "height": 320,
+          "file": "assets/word/ripped/vga/frames/06051/000.png"
+        }
+      ]
+    },
+    {
+      "id": 6053,
+      "frame_count": 1,
+      "frames": [
+        {
+          "index": 0,
+          "sheet_id": 6053,
+          "rectangle_inclusive_yxyx": [
+            0,
+            0,
+            319,
+            199
+          ],
+          "width": 200,
+          "height": 320,
+          "file": "assets/word/ripped/vga/frames/06053/000.png"
+        }
+      ]
+    }
+  ],
+  "contact_sheet": "assets/word/ripped/vga/contact-sheet.png"
+}

@@ -1,0 +1,383 @@
+{
+  "source": "C:\\Users\\kando\\Documents\\ChatGPT\\number munchers native windows port\\tmp\\super-munchers-source\\super-munchers-the-challenge-continues\\smunch\\SM.RES",
+  "source_size": 108202,
+  "source_sha256": "e1d559e5a60505136d3b89ccc745c0514973027c30e97670c0cb2faee34c7f51",
+  "data_offset": 692,
+  "type_count": 10,
+  "types": [
+    {
+      "tag": "CATG",
+      "entry_count": 6,
+      "table_offset": 84,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 692,
+          "size": 2720,
+          "flags": 0,
+          "sha256": "2f374839b067e26b8aff7aceead5b78d94c88030fab8ad37471bf04252f7a72f",
+          "file": "CATG/00001.bin"
+        },
+        {
+          "id": 2,
+          "offset": 3412,
+          "size": 2040,
+          "flags": 0,
+          "sha256": "210de968b5b5a933304ad35a4172c1dbd5b10b7c38caa550bc4adde9267c05fe",
+          "file": "CATG/00002.bin"
+        },
+        {
+          "id": 3,
+          "offset": 5452,
+          "size": 816,
+          "flags": 0,
+          "sha256": "3c3bc07b7c325df65d5e4da94f89f09a5dc7f2e588a7f2874344d000b743326a",
+          "file": "CATG/00003.bin"
+        },
+        {
+          "id": 4,
+          "offset": 6268,
+          "size": 2788,
+          "flags": 0,
+          "sha256": "d0bca0ceab6197632ff001a5594348bb85cb10407610e6541052db03970e05ff",
+          "file": "CATG/00004.bin"
+        },
+        {
+          "id": 5,
+          "offset": 9056,
+          "size": 1224,
+          "flags": 0,
+          "sha256": "312ffe49fa99557e4d251257b121058ec5486e1d85ae481d9dc3cefb470cb98b",
+          "file": "CATG/00005.bin"
+        },
+        {
+          "id": 6,
+          "offset": 10280,
+          "size": 1496,
+          "flags": 0,
+          "sha256": "308b7e8fb39b28d6d769e48869e07ddc4d417c44fad4a8126b0664ca498a9880",
+          "file": "CATG/00006.bin"
+        }
+      ]
+    },
+    {
+      "tag": "CONF",
+      "entry_count": 1,
+      "table_offset": 180,
+      "entries": [
+        {
+          "id": 1000,
+          "offset": 11776,
+          "size": 2292,
+          "flags": 0,
+          "sha256": "6a45783605e5a857715527ebe9a8b0d9dcf44d08e6f0f3193d3a1b331bb04af0",
+          "file": "CONF/01000.conf"
+        }
+      ]
+    },
+    {
+      "tag": "DATA",
+      "entry_count": 2,
+      "table_offset": 196,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 14068,
+          "size": 4258,
+          "flags": 0,
+          "sha256": "5c6a63c1fd176f44c556898a3034e81e464a1c7235dea0838242a77f7b229efe",
+          "file": "DATA/00001.data"
+        },
+        {
+          "id": 2,
+          "offset": 18326,
+          "size": 2582,
+          "flags": 0,
+          "sha256": "daf768114f4a30d61fe635df5c828c574df40310295dada8ff4ec5aa130edd1e",
+          "file": "DATA/00002.data"
+        }
+      ]
+    },
+    {
+      "tag": "EGAT",
+      "entry_count": 1,
+      "table_offset": 228,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 20908,
+          "size": 256,
+          "flags": 0,
+          "sha256": "334f3c978b75aa7417f3a0b4e78545ef195965dfe2047ce2bd95b1b32acf38b6",
+          "file": "EGAT/00001.bin"
+        }
+      ]
+    },
+    {
+      "tag": "INDX",
+      "entry_count": 6,
+      "table_offset": 244,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 21164,
+          "size": 5368,
+          "flags": 0,
+          "sha256": "2dc011d429024f47b3f59f2cbdac004af23f44b2f08dea1d4d86c45b839fbe3e",
+          "file": "INDX/00001.bin"
+        },
+        {
+          "id": 2,
+          "offset": 26532,
+          "size": 6570,
+          "flags": 0,
+          "sha256": "0c8b38f87aff1fe21a168c0d9da6af5bc857539322de55884fd9f0eb5393db6a",
+          "file": "INDX/00002.bin"
+        },
+        {
+          "id": 3,
+          "offset": 33102,
+          "size": 1768,
+          "flags": 0,
+          "sha256": "3dd949ba7c5eee50342a0026595df61b07cf03484cd88bc559d622696582ab91",
+          "file": "INDX/00003.bin"
+        },
+        {
+          "id": 4,
+          "offset": 34870,
+          "size": 7733,
+          "flags": 0,
+          "sha256": "4e021b62e8399a097694da2448a9c0f883c6307a5f70980a8dda1888c08421a7",
+          "file": "INDX/00004.bin"
+        },
+        {
+          "id": 5,
+          "offset": 42603,
+          "size": 3828,
+          "flags": 0,
+          "sha256": "7c90f37a9895e509c561424fdd090a484af7034ba4a2edbed7644a402cb67eda",
+          "file": "INDX/00005.bin"
+        },
+        {
+          "id": 6,
+          "offset": 46431,
+          "size": 5432,
+          "flags": 0,
+          "sha256": "57eef0af12425655249b96bfca3829790548f4ed234517dcf55a6aa43e90c9a0",
+          "file": "INDX/00006.bin"
+        }
+      ]
+    },
+    {
+      "tag": "GSND",
+      "entry_count": 1,
+      "table_offset": 340,
+      "entries": [
+        {
+          "id": 22,
+          "offset": 51863,
+          "size": 1793,
+          "flags": 0,
+          "sha256": "8ed872c773e9424d2b83d3288e0abb0dc1c405515e2da0f0f8bbd0f0c892d400",
+          "file": "GSND/00022.gsnd"
+        }
+      ]
+    },
+    {
+      "tag": "PSND",
+      "entry_count": 5,
+      "table_offset": 356,
+      "entries": [
+        {
+          "id": 21,
+          "offset": 53656,
+          "size": 844,
+          "flags": 0,
+          "sha256": "f784d34f73d982ecff15793707209ca7c7273caa0270f71d2894e7671e2977a4",
+          "file": "PSND/00021.psnd"
+        },
+        {
+          "id": 22,
+          "offset": 54500,
+          "size": 866,
+          "flags": 0,
+          "sha256": "a8325ced698d765713aa622a2fe9ff92298d5711b7536b7df66064d54a69fdbc",
+          "file": "PSND/00022.psnd"
+        },
+        {
+          "id": 23,
+          "offset": 55366,
+          "size": 949,
+          "flags": 0,
+          "sha256": "0c1c892ccb7e5821b295eb7c528112a2e7561476aa42721cb985973c98d9288f",
+          "file": "PSND/00023.psnd"
+        },
+        {
+          "id": 24,
+          "offset": 56315,
+          "size": 954,
+          "flags": 0,
+          "sha256": "de99b577250f664c7289430b45c531ed62d855ce7ba937e6c3553d742c2fb2bd",
+          "file": "PSND/00024.psnd"
+        },
+        {
+          "id": 25,
+          "offset": 57269,
+          "size": 910,
+          "flags": 0,
+          "sha256": "a7a3b541e4c9bf395551e4fb706063a3248e1150b5304b5cbd2a4bd1ef86f7d0",
+          "file": "PSND/00025.psnd"
+        }
+      ]
+    },
+    {
+      "tag": "ADLI",
+      "entry_count": 5,
+      "table_offset": 436,
+      "entries": [
+        {
+          "id": 21,
+          "offset": 58179,
+          "size": 1293,
+          "flags": 0,
+          "sha256": "a99169eb414fce1ad403ddbf6c8ba345616b4468be6f3163b2bd1d09ef21e5bf",
+          "file": "ADLI/00021.adli"
+        },
+        {
+          "id": 22,
+          "offset": 59472,
+          "size": 1333,
+          "flags": 0,
+          "sha256": "98ea2bb90021b0a01fc1d8b46f83290b56e08f7a8f9b73b98ecbbb4d2bb2af51",
+          "file": "ADLI/00022.adli"
+        },
+        {
+          "id": 23,
+          "offset": 60805,
+          "size": 1692,
+          "flags": 0,
+          "sha256": "0b4664ae588fba1db3d76e7354fac2e235a1b0bdc6f3e598ac2cb6135f3dad21",
+          "file": "ADLI/00023.adli"
+        },
+        {
+          "id": 24,
+          "offset": 62497,
+          "size": 1431,
+          "flags": 0,
+          "sha256": "9a7c638aae2d716571464c52035c08f4421ec654c04a3a39c1edf94159b89b49",
+          "file": "ADLI/00024.adli"
+        },
+        {
+          "id": 25,
+          "offset": 63928,
+          "size": 2023,
+          "flags": 0,
+          "sha256": "ea63611caab1d713ffe63254656931819eebf75448a02be5f7c0261649a6b979",
+          "file": "ADLI/00025.adli"
+        }
+      ]
+    },
+    {
+      "tag": "SCPT",
+      "entry_count": 5,
+      "table_offset": 516,
+      "entries": [
+        {
+          "id": 2022,
+          "offset": 65951,
+          "size": 456,
+          "flags": 0,
+          "sha256": "26f6992f9bbf068e598bca3b9c6561cec140c06d1839a878a1cfd6499fb47a0f",
+          "file": "SCPT/02022.scpt"
+        },
+        {
+          "id": 2024,
+          "offset": 66407,
+          "size": 1124,
+          "flags": 0,
+          "sha256": "5cb1c0ca1c44ef7f85789eebaa45e9eddb8a4a80d0461b17aec94530b1936175",
+          "file": "SCPT/02024.scpt"
+        },
+        {
+          "id": 2026,
+          "offset": 67531,
+          "size": 1224,
+          "flags": 0,
+          "sha256": "4ec0361fa44e46e7f4d4d523fbc49fba60dcd4a5294fb6423b77cdfb84faaf92",
+          "file": "SCPT/02026.scpt"
+        },
+        {
+          "id": 2028,
+          "offset": 68755,
+          "size": 906,
+          "flags": 0,
+          "sha256": "bcee394baefe51628538de67eedec4fb0beb1ce89f2775e8a4af8cddec1407f1",
+          "file": "SCPT/02028.scpt"
+        },
+        {
+          "id": 2030,
+          "offset": 69661,
+          "size": 1310,
+          "flags": 0,
+          "sha256": "065f6af2da2679789cea2d06c38d568357b96ba97db32117c9d43e2da05346e8",
+          "file": "SCPT/02030.scpt"
+        }
+      ]
+    },
+    {
+      "tag": "WLST",
+      "entry_count": 6,
+      "table_offset": 596,
+      "entries": [
+        {
+          "id": 1,
+          "offset": 70971,
+          "size": 3941,
+          "flags": 0,
+          "sha256": "35c22e4c315628d2617d7ac305c86bf44dbf12de5aee53b78c7534efb03fad3a",
+          "file": "WLST/00001.bin"
+        },
+        {
+          "id": 2,
+          "offset": 74912,
+          "size": 10159,
+          "flags": 0,
+          "sha256": "d16d0d5abc2e4e8c01eeab32227da66d904be5aa3ceca7921c81fba511a84177",
+          "file": "WLST/00002.bin"
+        },
+        {
+          "id": 3,
+          "offset": 85071,
+          "size": 3530,
+          "flags": 0,
+          "sha256": "5deee8b8d48a9a65787fda861f2c5f242ab084749bb7ff8c8d80e845864cb2b3",
+          "file": "WLST/00003.bin"
+        },
+        {
+          "id": 4,
+          "offset": 88601,
+          "size": 6861,
+          "flags": 0,
+          "sha256": "6b955c7c67d8b8f031c13778c320051b2536b839b044008101fca02a77644f56",
+          "file": "WLST/00004.bin"
+        },
+        {
+          "id": 5,
+          "offset": 95462,
+          "size": 6633,
+          "flags": 0,
+          "sha256": "7a102b50489dbcdecfd40021da47e628d8b1ce15a5d1d3a9af49b8a9823d9103",
+          "file": "WLST/00005.bin"
+        },
+        {
+          "id": 6,
+          "offset": 102095,
+          "size": 6107,
+          "flags": 0,
+          "sha256": "bff9e18829cfd33dff2470b102c78489f6a3bf8eed6b6a4ad2726295206f4950",
+          "file": "WLST/00006.bin"
+        }
+      ]
+    }
+  ]
+}

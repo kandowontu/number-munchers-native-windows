@@ -1,0 +1,89 @@
+
+Dear Number Munchers User,
+
+Thank you for purchasing Number Munchers!  The following information was too
+late to be included in the User's Guide.  Please take the time to read it
+so that you can receive maximum enjoyment from your software package.
+
+
+Register Now
+============
+A REGISTRATION CARD is included in the package.  Please complete it and
+return it to us so that we can notify you of new, exciting IBM/Tandy
+products as they become available.
+
+
+Make a Backup Copy
+==================
+Before you begin playing Number Munchers, be sure to make yourself a copy
+and put the original disks in a safe place.
+
+
+
+
+
+Using a Mouse
+=============
+If Number Munchers detects a mouse attached to your computer, an arrow
+cursor will appear on the screen. The mouse may be used to make menu
+selections and to control the Muncher.
+
+Your mouse must be Microsoft-compatible, and must be installed prior
+to starting the Number Munchers program.
+
+To choose from a menu, move the mouse to highlight your menu selection,
+and press either mouse button.
+
+During the game, direct the Muncher to the desired square and press the
+left button.  A second press in the same location will cause the Muncher
+to munch the word.
+
+The right mouse button has the same effect as the Enter Key.  Pressing
+it when the game is active will set a time out.  Pressing it again will
+reactivate the game.
+
+
+
+
+
+If You Don't Have a Mouse
+=========================
+If you are not using a mouse with your computer, Number Munchers will
+operate normally using only the keyboard for input.  However, some
+older computers may have trouble when Number Munchers tries to find a
+mouse and none is present.  If you do not have a mouse and Number
+Munchers is behaving strangely (or not running at all), try typing 
+NM NOMOUSE to start the program.
+
+
+
+Sound and Music Support
+=======================
+Number Munchers supports Adlib and compatible sound boards.
+
+If a sound board is detected by the program, Number Munchers will use
+the board to play sound effects and music.  You may choose to use the
+internal speaker of your PC to play the sound effects.  To toggle
+sound effects between the sound board and the internal speaker of
+your PC, hold down the Alt Key and press P.
+
+
+
+
+Sound effects are turned on and off by holding down the Alt Key and
+pressing S.
+
+Music is toggled on or off separately from the game sounds by holding the
+Alt key and pressing M.
+ 
+ 
+
+Remember, to start the program, type NM at the DOS prompt.  We hope
+you like using Number Munchers as much as we enjoyed creating it!
+
+Sincerely,
+
+MECC
+
+
+
