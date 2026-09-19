@@ -34,8 +34,8 @@ IDR_SFX_BOARD_START_DRO RCDATA "../assets/ripped/audio/board-start-adlib.dro"
 IDR_SFX_LEVEL_ADVANCE_DRO RCDATA "../assets/ripped/audio/level-advance-adlib.dro"
 
 1 VERSIONINFO
-FILEVERSION 1,0,0,0
-PRODUCTVERSION 1,0,0,0
+FILEVERSION 1,1,0,0
+PRODUCTVERSION 1,1,0,0
 FILEFLAGSMASK 0x3fL
 FILEFLAGS 0x0L
 FILEOS 0x40004L
@@ -48,11 +48,11 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Native preservation port"
             VALUE "FileDescription", "Number Munchers native Windows port"
-            VALUE "FileVersion", "1.0.0"
+            VALUE "FileVersion", "1.1.0"
             VALUE "InternalName", "NumberMunchers"
             VALUE "OriginalFilename", "Number Munchers.exe"
             VALUE "ProductName", "Number Munchers"
-            VALUE "ProductVersion", "1.0.0"
+            VALUE "ProductVersion", "1.1.0"
         END
     END
     BLOCK "VarFileInfo"

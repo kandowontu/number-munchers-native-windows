@@ -12,15 +12,15 @@ executables are not required.
 ## Download
 
 Download the ready-to-run Windows build from the
-**[1.0 release page](https://github.com/kandowontu/number-munchers-native-windows/releases/tag/v1.0)**.
+**[1.1 release page](https://github.com/kandowontu/number-munchers-native-windows/releases/tag/v1.1)**.
 
 The release contains a single self-contained executable:
 `Number.Munchers.exe`. No installer or adjacent asset folder is needed.
 
-Version 1.0 SHA-256:
+Version 1.1 SHA-256:
 
 ```text
-D706C67B460496C795C98B2B1D803E249011AEDA46F03BAC070334DA315828AB
+0852AF6CBF8536E16F1D24D07373B9E0453F339072C55553D923AFB26D82B413
 ```
 
 ## Highlights
@@ -30,7 +30,7 @@ D706C67B460496C795C98B2B1D803E249011AEDA46F03BAC070334DA315828AB
 - Original VGA artwork, CGA mode, fonts, sound effects, music, and PC-speaker audio
 - Original gameplay rules, scoring, difficulty settings, Hall of Fame, demos,
   cartoons, and Super Munchers missions
-- Mouse, keyboard, and WinMM joystick support
+- Mouse, keyboard, XInput gamepad, and WinMM joystick support
 - Integer-scaled windowed rendering and borderless fullscreen
 - Atomic double-buffered presentation to eliminate black flicker
 - Buffered AdLib playback designed to avoid underruns on a busy desktop
@@ -51,6 +51,23 @@ D706C67B460496C795C98B2B1D803E249011AEDA46F03BAC070334DA315828AB
 | Toggle sound effects | Alt+S |
 | Toggle music | Alt+M |
 | Switch AdLib / PC speaker | Alt+P |
+
+### Gamepad
+
+Xbox-compatible controllers work automatically; no in-game calibration is
+needed. The first connected XInput controller takes priority. If none is
+connected, the original configurable WinMM joystick path remains available.
+
+| Action | Gamepad input |
+|---|---|
+| Move | D-pad or left stick |
+| Munch | A or X |
+| Leave / back | View/Back (Select) or B |
+| Pause / confirm | Menu (Start) or Y |
+
+The left stick uses a dead zone and resolves diagonal input to its strongest
+cardinal direction. Menu buttons fire once per press; held movement repeats at
+a controlled rate.
 
 The developer menu provides level selection and game-specific testing helpers.
 The fullscreen and developer-menu shortcuts respond once per physical key
@@ -91,12 +108,13 @@ the C++ runtime statically.
 
 ## Verification
 
-Version 1.0 passes all six automated release tests. They cover:
+Version 1.1 passes all seven automated release tests. They cover:
 
 - game state, rendering, animation, timing, and audio
 - Word Munchers content and board rules
 - Super Munchers content and mission scripts
 - the shared launcher and input lifecycle
+- XInput mappings, dead zone, repeat timing, and button edge handling
 - all 31 embedded runtime resources
 - the production executable's Windows-system-DLL-only dependency boundary
 

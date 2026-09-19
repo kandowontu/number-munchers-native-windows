@@ -1,6 +1,7 @@
 #include "munchers_app.h"
 #include "render.h"
 #include "win32_shortcuts.h"
+#include "xinput_controller.h"
 
 #include <windows.h>
 #include <windowsx.h>
@@ -21,6 +22,7 @@ constexpr wchar_t WindowTitle[] = L"Munchers";
 struct Application {
     MunchersApp game;
     Renderer renderer;
+    XInputController xinput;
     bool fullscreen{};
     WINDOWPLACEMENT windowPlacement{};
     std::chrono::steady_clock::time_point lastUpdate = std::chrono::steady_clock::now();
@@ -118,20 +120,31 @@ LRESULT CALLBACK windowProcedure(HWND window, UINT message, WPARAM wParam, LPARA
         return 0;
     case WM_TIMER:
         if (application) {
-            JOYINFOEX joystick{};
-            joystick.dwSize = sizeof(joystick);
-            joystick.dwFlags = JOY_RETURNX | JOY_RETURNY | JOY_RETURNBUTTONS;
-            const bool joystickConnected =
-                joyGetPosEx(JOYSTICKID1, &joystick) == JOYERR_NOERROR;
-            application->game.setJoystickState(
-                joystickConnected,
-                joystickConnected ? joystick.dwXpos : 0,
-                joystickConnected ? joystick.dwYpos : 0,
-                joystickConnected ? joystick.dwButtons : 0);
             const auto now = std::chrono::steady_clock::now();
             double elapsed = std::chrono::duration<double>(now - application->lastUpdate).count();
             application->lastUpdate = now;
             elapsed = std::max(0.0, elapsed);
+            const XInputActions controller = application->xinput.poll(elapsed);
+            if (controller.connected) {
+                // XInput is plug-and-play and uses the same semantic keys as
+                // the keyboard. Disconnect the legacy calibrated path so a
+                // formerly attached WinMM device cannot leave stale input.
+                application->game.setJoystickState(false, 0, 0, 0);
+                for (std::size_t index = 0; index < controller.count; ++index) {
+                    application->game.keyDown(controller.virtualKeys[index]);
+                }
+            } else {
+                JOYINFOEX joystick{};
+                joystick.dwSize = sizeof(joystick);
+                joystick.dwFlags = JOY_RETURNX | JOY_RETURNY | JOY_RETURNBUTTONS;
+                const bool joystickConnected =
+                    joyGetPosEx(JOYSTICKID1, &joystick) == JOYERR_NOERROR;
+                application->game.setJoystickState(
+                    joystickConnected,
+                    joystickConnected ? joystick.dwXpos : 0,
+                    joystickConnected ? joystick.dwYpos : 0,
+                    joystickConnected ? joystick.dwButtons : 0);
+            }
             application->game.update(elapsed);
             if (application->game.shouldQuit()) {
                 DestroyWindow(window);

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(NumberMunchersNative VERSION 1.0.0 LANGUAGES CXX RC)
+project(NumberMunchersNative VERSION 1.1.0 LANGUAGES CXX RC)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -25,6 +25,7 @@ add_executable(NumberMunchers WIN32
     src/word_content.cpp
     src/word_game.cpp
     src/word_runtime.cpp
+    src/xinput_controller.cpp
     src/render.cpp
     src/game.cpp
     third_party/ymfm/src/ymfm_adpcm.cpp
@@ -217,4 +218,17 @@ if(BUILD_TESTING)
     add_dependencies(ProductionArtifactTests NumberMunchers)
     add_test(NAME production_artifact_self_containment_test
              COMMAND ProductionArtifactTests "$<TARGET_FILE:NumberMunchers>")
+
+    add_executable(XInputControllerTests
+        tests/xinput_controller_test.cpp
+        src/xinput_controller.cpp
+    )
+    target_compile_definitions(XInputControllerTests PRIVATE
+        UNICODE _UNICODE WIN32_LEAN_AND_MEAN NOMINMAX)
+    if(MINGW)
+        target_compile_options(XInputControllerTests PRIVATE -Wall -Wextra -Wpedantic)
+        target_link_options(XInputControllerTests PRIVATE
+            -static -static-libgcc -static-libstdc++)
+    endif()
+    add_test(NAME xinput_controller_test COMMAND XInputControllerTests)
 endif()
